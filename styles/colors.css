@@ -1,0 +1,36 @@
+:root {
+  /** DARK THEME PRIMARY COLORS */
+  --color-dark-primary-100: #382bf0;
+  --color-dark-primary-200: #5e43f3;
+  --color-dark-primary-300: #7a5af5;
+  --color-dark-primary-400: #9171f8;
+  --color-dark-primary-500: #a688fa;
+  --color-dark-primary-600: #ba9ffb;
+
+  /** DARK THEME SURFACE COLORS */
+  --color-dark-surface-100: #121212;
+  --color-dark-surface-200: #282828;
+  --color-dark-surface-300: #3f3f3f;
+  --color-dark-surface-400: #575757;
+  --color-dark-surface-500: #717171;
+  --color-dark-surface-600: #8b8b8b;
+
+  /** DARK THEME MIXED SURFACE COLORS */
+  --color-dark-surface-mixed-100: #1a1625;
+  --color-dark-surface-mixed-200: #2f2b3a;
+  --color-dark-surface-mixed-300: #46424f;
+  --color-dark-surface-mixed-400: #5e5a66;
+  --color-dark-surface-mixed-500: #76737e;
+  --color-dark-surface-mixed-600: #908d96;
+
+  --color-light-surface-100: #ffffff;
+  --color-light-surface-200: #dcdddf;
+  --color-light-surface-300: #babdbf;
+  --color-light-surface-400: #999da1;
+  --color-light-surface-500: #797e83;
+  --color-light-surface-600: #5b6167;
+  --color-light-surface-700: #3d454c;
+  --color-light-surface-800: #232b32;
+
+  --color-visited: #00a8cc;
+}

@@ -1,0 +1,31 @@
+@import './colors.css';
+@import 'https://unpkg.com/animate.css@4.1.1/animate.css';
+
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  background-color: var(--color-dark-surface-300);
+  color: var(--color-dark-surface-600);
+}
+
+.icon svg {
+  filter: invert(100%); /* TODO - change based on theme */
+}

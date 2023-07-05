@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+  <title>Lando Systems</title>
+
+  <link rel="icon" type="image/svg+xml" href="./images/favicon.svg" />
+
+  <link rel="stylesheet" href="./styles/base.css" />
+  <link rel="stylesheet" href="./styles/game-cards.css" />
+
+  <link rel="modulepreload" href="./scripts/Icon.js" />
+  <link rel="modulepreload" href="./scripts/Header.js" />
+  <link rel="modulepreload" href="./scripts/GameCard.js" />
+
+</head>
+<body>
+  <!-- TODO - why not just use <body> -->
+  <div class="main"></div>
+
+  <script type="module">
+    import { Main } from './scripts/Main.js';
+    Main(document.querySelector('.main'));
+  </script>
+</body>
+</html>

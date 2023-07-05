@@ -1,0 +1,92 @@
+.animate__animated {
+  --animate-duration: 0.5s;
+}
+
+.game-cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-shrink: 0;
+  justify-content: center;
+}
+
+.card-container {
+  display: grid;                        /* enforce uniform sizes for each card */
+  background-clip: padding-box;         /* make transparent border actually transparent instead of white */
+  border: 0.3rem dotted transparent;    /* prevent jitter when setting border on hover */
+  border-radius: 0.5rem;
+  padding: 0.25rem;
+  max-width: 250px;
+}
+.card-container:hover {
+  border: 0.3rem dotted deepskyblue;
+}
+.card-container:hover img,
+.card-container:hover .card-title {
+  filter: brightness(150%);
+}
+.card-container a {
+  text-decoration: none;
+}
+
+.card {
+  background-color: var(--color-light-surface-800);
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  text-align: center;
+  display: grid;
+  min-height: 100%;
+  grid-template-rows: 1fr auto;
+}
+
+.card-content {
+  background-color: var(--color-dark-surface-200);
+  border-radius: 0 0 1rem 1rem;
+}
+
+.card-image {
+  border-radius: 0.25rem 0.25rem 0 0;
+  margin: 0 auto;
+}
+
+.card-header {
+  border-top: 0.1rem solid var(--color-light-surface-300);
+}
+
+.card-title {
+  text-transform: capitalize;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.card-subtitle {
+  margin-top: 0.5rem;
+}
+
+.card-body {
+}
+
+.card-footer {
+  width: 100%;
+  grid-row-start: 3;
+  grid-row-end: 4;
+  padding: 0.25rem;
+  margin-top: 0.5rem;
+  background-color: var(--color-dark-surface-200);
+}
+
+.button {
+  display: inline-block;
+  text-decoration: none;
+  padding: 0.25rem 0.3rem;
+  border-radius: 0.5rem;
+  background-color: var(--color-dark-surface-mixed-400);
+  color: var(--color-light-surface-100);
+}
+.button:visited {
+  color: var(--color-light-surface-200);
+}
+.button:hover {
+  background-color: var(--color-light-surface-300);
+  color: var(--color-dark-surface-mixed-400);
+}

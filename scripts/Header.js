@@ -1,13 +1,9 @@
 export const Header = (elem) => {
 
   elem.innerHTML = `
-    <div class="controls">
-      <h1 class="site-title">
-        <span class="icon" data-id="sun-24"></span>
-        <span class="icon" data-id="moon-24"></span>
-        <span class="title">Lando Systems</span>
-      </h1>
-    </div>
+    <h1 class="title">
+      <a href="#">Lando Systems</a>
+    </h1>
     
     <nav role="navigation">
       <ul>
@@ -16,6 +12,11 @@ export const Header = (elem) => {
         <li><a href="#posts">posts</a></li>
       </ul>
     </nav>
+    
+    <div class="controls">
+      <span class="icon" data-id="sun-24"></span>
+      <span class="icon" data-id="moon-24"></span>
+    </div>
   `;
 
 };

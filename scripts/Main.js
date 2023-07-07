@@ -8,7 +8,6 @@ export const Main = (elem) => {
 
   elem.innerHTML = `
     <header role="banner"></header>
-    <main role="main"></main>
     <footer role="contentinfo">
       <p>[footer...TODO - add copyright, social links, etc...]</p>  
     </footer>
@@ -16,7 +15,11 @@ export const Main = (elem) => {
 
   elem.querySelectorAll('header').forEach(Header);
 
-  const main = elem.querySelector('main');
+  const main = document.createElement('main');
+  main.role = 'main';
+  const header = elem.querySelector('header');
+  header.after(main);
+
   game_attribs.forEach(attribs => {
     const card = document.createElement('article')
     const element = main.appendChild(card);

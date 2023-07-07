@@ -1,6 +1,7 @@
 import {Icon} from "./Icon.js";
 import {Header} from "./Header.js";
 import {GameCard} from "./GameCard.js";
+import {_} from "./utils.js";
 
 import game_attribs from "../data/game-attribs.json.js";
 
@@ -17,12 +18,19 @@ export const Main = (elem) => {
 
   const main = document.createElement('main');
   main.role = 'main';
+
   const header = elem.querySelector('header');
   header.after(main);
 
+  const cards_section = _.createElementWithClasses('section', 'game-cards');
+  main.appendChild(cards_section);
+
   game_attribs.forEach(attribs => {
-    const card = document.createElement('article')
-    const element = main.appendChild(card);
+    // create container element and insert it
+    const card = _.createElementWithClasses('article', 'card-container');
+    const element = cards_section.appendChild(card);
+
+    // hydrate the element
     GameCard(element, attribs);
   });
 

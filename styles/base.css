@@ -22,8 +22,18 @@ body {
 body {
   font-size: 16px;
   font-family: 'Open Sans', sans-serif;
-  background-color: var(--color-dark-surface-300);
-  color: var(--color-dark-surface-600);
+  color: var(--color-dark-text);
+  background-color: var(--color-dark-background);
+}
+
+a {
+  color: var(--color-dark-primary);
+}
+a:hover {
+  color: var(--color-dark-text);
+}
+a:visited {
+  color: var(--color-dark-secondary);
 }
 
 .icon svg {

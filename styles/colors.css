@@ -1,4 +1,16 @@
 :root {
+  /** dark theme (new) **/
+  --color-dark-background: rgb(33, 33, 33);
+  --color-dark-surface: rgb(46, 46, 46);
+  --color-dark-surface-light: rgb(69, 69, 69);
+  --color-dark-surface-lighter: rgb(119, 119, 119);
+  --color-dark-text: rgb(229, 229, 229);
+  --color-dark-primary: rgb(80, 129, 255);
+  --color-dark-secondary: rgb(89, 222, 214);
+  --color-dark-alert: rgb(255, 102, 102);
+
+
+
   /** DARK THEME PRIMARY COLORS */
   --color-dark-primary-100: #382bf0;
   --color-dark-primary-200: #5e43f3;

@@ -1,33 +1,31 @@
 export const GameCard = (elem, attribs) => {
 
   elem.innerHTML = `
-    <div class="card-container">
-      <article class="card">
-        <img class="card-image"
-             src="../images/logo-512.png"
-             alt="Game card"
-        >
-        
-        <div class="card-content">
-          <section class="card-header">
-            <a href="#" target="_blank">
-              <h3 class="card-title">Game Title</h3>
-            </a>
-            <h4 class="card-subtitle">subtitle</h4>
-          </section>
-          
-          <section class="card-body">
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            </p>
-          </section>
-        </div>
-        
-        <section class="card-footer">
-          <a class="button game-code" href="https://github.com" target="_blank">code</a>
-          <a class="button game-play" href="posts/" target="_blank">play</a>
+    <div class="card">
+      <img class="card-image"
+           src="../images/logo-512.png"
+           alt="Game card"
+      >
+
+      <div class="card-content">
+        <section class="card-header">
+          <a href="#" target="_blank">
+            <h3 class="card-title">Game Title</h3>
+          </a>
+          <h4 class="card-subtitle">subtitle</h4>
         </section>
-      </article>
+        
+        <section class="card-body">
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          </p>
+        </section>
+      </div>
+
+      <section class="card-footer">
+        <a class="button game-code" href="https://github.com" target="_blank">code</a>
+        <a class="button game-play" href="posts/" target="_blank">play</a>
+      </section>
     </div>
   `;
 
@@ -50,11 +48,16 @@ export const GameCard = (elem, attribs) => {
     const toggle_anim = (event) => {
       let classes = event.target.classList;
       classes.toggle('animate__animated');
-      classes.toggle('animate__headShake');
+      classes.toggle('animate__pulse');
     };
-    let container = elem.querySelector('.card-container');
-    container.addEventListener('mouseenter', toggle_anim);
-    container.addEventListener('mouseleave', toggle_anim);
+    elem.addEventListener('mouseenter', toggle_anim);
+    elem.addEventListener('mouseleave', toggle_anim);
+
+    let buttons = elem.querySelectorAll('.button');
+    buttons.forEach(button => {
+      button.addEventListener('mouseenter', toggle_anim);
+      button.addEventListener('mouseleave', toggle_anim);
+    });
   }
 
 };

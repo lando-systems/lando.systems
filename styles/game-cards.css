@@ -1,5 +1,5 @@
 .animate__animated {
-  --animate-duration: 0.5s;
+  --animate-duration: 0.33s;
 }
 
 .game-cards {
@@ -30,7 +30,7 @@
 }
 
 .card {
-  background-color: var(--color-light-surface-800);
+  background-color: var(--color-dark-surface);
   border-radius: 0.5rem;
   padding: 0.5rem;
   text-align: center;
@@ -40,7 +40,6 @@
 }
 
 .card-content {
-  background-color: var(--color-dark-surface-200);
   border-radius: 0 0 1rem 1rem;
 }
 
@@ -50,7 +49,7 @@
 }
 
 .card-header {
-  border-top: 0.1rem solid var(--color-light-surface-300);
+  border-top: 0.1rem solid var(--color-dark-surface-light);
 }
 
 .card-title {
@@ -72,7 +71,6 @@
   grid-row-end: 4;
   padding: 0.25rem;
   margin-top: 0.5rem;
-  background-color: var(--color-dark-surface-200);
 }
 
 .button {
@@ -80,13 +78,12 @@
   text-decoration: none;
   padding: 0.25rem 0.3rem;
   border-radius: 0.5rem;
-  background-color: var(--color-dark-surface-mixed-400);
-  color: var(--color-light-surface-100);
-}
-.button:visited {
-  color: var(--color-light-surface-200);
+  color: var(--color-dark-secondary);
+  border: 0.25rem solid var(--color-dark-surface);
+  background-color: var(--color-dark-surface-light);
 }
 .button:hover {
-  background-color: var(--color-light-surface-300);
-  color: var(--color-dark-surface-mixed-400);
+  color: var(--color-dark-text);
+  border: 0.3rem solid var(--color-dark-surface-light);
+  background-color: var(--color-dark-surface-lighter);
 }

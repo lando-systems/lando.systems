@@ -63,6 +63,22 @@
 }
 
 .card-body {
+  text-align: center;
+  /*border: 1px solid skyblue;*/
+}
+.card-body table {
+  width: 100%;
+}
+.card-body .game-ratings tr:nth-child(odd) {
+  background-color: var(--color-dark-surface-light);
+}
+.card-body .game-ratings .rating-category {
+  text-align: left;
+  text-transform: capitalize;
+  padding-left: 1rem;
+}
+.card-body tfoot {
+  background-color: var(--color-dark-background);
 }
 
 .card-footer {

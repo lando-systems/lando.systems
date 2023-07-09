@@ -3,6 +3,8 @@ import {Header} from "./Header.js";
 import {GameCard} from "./GameCard.js";
 import {_} from "./utils.js";
 
+import "https://unpkg.com/boxicons@2.1.4/dist/boxicons.js";
+
 import game_attribs from "../data/game-attribs.json.js";
 
 export const Main = (elem) => {

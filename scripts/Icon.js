@@ -4,6 +4,8 @@ const ICON_BASE_URL = `https://unpkg.com/@primer/octicons@${OCTICONS_VERSION}/bu
 // const MDI_VERSION = '7.2.96';
 // const ICON_BASE_URL = `https://unpkg.com/@mdi/svg@${MDI_VERSION}/svg/`
 
+// TODO - find a better icon lib with color and a wider spread of options
+
 const cache = {};
 
 async function getOrFetchSvg(id) {

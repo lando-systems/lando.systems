@@ -1,3 +1,41 @@
+import {_} from './utils.js';
+
+// other good icons:
+// joystick, speaker, volume-full, microphone, ruler, film,
+// bomb, brain, meteor, cookie, donate-heart, bookmark-heart,
+const rating_category_icons = {
+  'overall': 'trophy',
+  'fun': 'happy-beaming',
+  'innovation': 'health',
+  'theme': 'key',
+  'graphics': 'image',
+  'audio': 'music',
+  'humor': 'like',
+  'mood': 'spa'
+};
+
+const Rating = (elem, category, value) => {
+
+  elem.innerHTML = `
+    <td class="rating-icon">
+      <box-icon name="${rating_category_icons[category]}"
+                type="regular"
+                color="white"
+                size="sm"
+      />
+    </td>
+    <td class="rating-category"></td>
+    <td class="rating-value"></td>
+  `;
+
+  let elem_category = elem.querySelector('.rating-category');
+  let elem_value = elem.querySelector('.rating-value');
+
+  elem_category.innerText = category;
+  elem_value.innerText = value;
+
+};
+
 export const GameCard = (elem, attribs) => {
 
   elem.innerHTML = `
@@ -16,9 +54,20 @@ export const GameCard = (elem, attribs) => {
         </section>
         
         <section class="card-body">
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
+          <table>
+            <thead>
+              <th colspan="2">Category</th>
+              <th>Rating</th>
+            </thead>
+            <tbody class="game-ratings"></tbody>
+            <tfoot>
+              <tr>
+               <td colspan="3">
+                 <a href="#" class="game-entry">Jam Entry</a>
+               </td>
+              </tr>
+            </tfoot>
+          </table>
         </section>
       </div>
 
@@ -33,17 +82,24 @@ export const GameCard = (elem, attribs) => {
     let img = elem.querySelector('.card-image');
     let title = elem.querySelector('.card-title');
     let subtitle = elem.querySelector('.card-subtitle');
-    let body = elem.querySelector('.card-body p');
+    let game_ratings = elem.querySelector('.card-body .game-ratings');
     let game_code = elem.querySelector('.card-footer a.game-code');
     let game_play = elem.querySelector('.card-footer a.game-play');
+    let game_entry = elem.querySelector('.game-entry');
 
     img.src = `../images${attribs.thumb}`;
     img.alt = attribs.title;
     title.innerText = attribs.title;
     subtitle.innerText = attribs.date;
-    // body.innerText = attribs.desc;
     game_code.href = attribs.code;
     game_play.href = attribs.play;
+    game_entry.href = attribs.entry;
+
+    for (const [category, value] of Object.entries(attribs.ratings)) {
+      const rating = _.createElementWithClasses('tr', 'game-rating');
+      game_ratings.appendChild(rating);
+      Rating(rating, category, value);
+    }
 
     const toggle_anim = (event) => {
       let classes = event.target.classList;

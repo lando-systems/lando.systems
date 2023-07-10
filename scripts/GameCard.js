@@ -21,7 +21,7 @@ const Rating = (elem, category, value) => {
       <box-icon name="${rating_category_icons[category]}"
                 type="regular"
                 color="white"
-                size="sm"
+                size="xs"
       />
     </td>
     <td class="rating-category"></td>

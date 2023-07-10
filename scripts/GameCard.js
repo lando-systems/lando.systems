@@ -48,9 +48,10 @@ export const GameCard = (elem, attribs) => {
       <div class="card-content">
         <section class="card-header">
           <a href="#" target="_blank">
-            <h3 class="card-title">Game Title</h3>
+            <h3 class="card-title"></h3>
+            <h4 class="card-subtitle">&nbsp;</h4>
           </a>
-          <h4 class="card-subtitle">subtitle</h4>
+          <h6 class="created-date"></h6>
         </section>
         
         <section class="card-body">
@@ -63,7 +64,7 @@ export const GameCard = (elem, attribs) => {
             <tfoot>
               <tr>
                <td colspan="3">
-                 <a href="#" class="game-entry">Jam Entry</a>
+                 <a class="game-entry" href="#" target="_blank">Jam Entry</a>
                </td>
               </tr>
             </tfoot>
@@ -82,15 +83,27 @@ export const GameCard = (elem, attribs) => {
     let img = elem.querySelector('.card-image');
     let title = elem.querySelector('.card-title');
     let subtitle = elem.querySelector('.card-subtitle');
+    let created_date = elem.querySelector('.created-date');
     let game_ratings = elem.querySelector('.card-body .game-ratings');
     let game_code = elem.querySelector('.card-footer a.game-code');
     let game_play = elem.querySelector('.card-footer a.game-play');
     let game_entry = elem.querySelector('.game-entry');
 
+    // convert date string to Date type for formatting purposes
+    attribs.date = new Date(attribs.date);
+    const currLocale = undefined;
+    const dateOptions = {month: 'short', day: 'numeric', year: 'numeric'};
+    const createdDate = attribs.date.toLocaleDateString(currLocale, dateOptions);
+
     img.src = `../images${attribs.thumb}`;
     img.alt = attribs.title;
+
     title.innerText = attribs.title;
-    subtitle.innerText = attribs.date;
+    if (attribs.subtitle) {
+      subtitle.innerText = attribs.subtitle;
+    }
+    created_date.innerText = createdDate;
+
     game_code.href = attribs.code;
     game_play.href = attribs.play;
     game_entry.href = attribs.entry;

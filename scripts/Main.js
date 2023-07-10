@@ -28,11 +28,8 @@ export const Main = (elem) => {
   main.appendChild(cards_section);
 
   game_attribs.forEach(attribs => {
-    // create container element and insert it
     const card = _.createElementWithClasses('article', 'card-container');
     const element = cards_section.appendChild(card);
-
-    // hydrate the element
     GameCard(element, attribs);
   });
 

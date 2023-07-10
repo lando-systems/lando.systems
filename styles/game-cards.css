@@ -1,5 +1,5 @@
 .animate__animated {
-  --animate-duration: 0.33s;
+  --animate-duration: 0.2s;
 }
 
 .game-cards {
@@ -18,12 +18,15 @@
   padding: 0.25rem;
   max-width: 250px;
 }
+.card-container img {
+  filter: brightness(80%);
+}
 .card-container:hover {
   border: 0.3rem dotted deepskyblue;
 }
 .card-container:hover img,
 .card-container:hover .card-title {
-  filter: brightness(150%);
+  filter: brightness(120%);
 }
 .card-container a {
   text-decoration: none;
@@ -61,13 +64,19 @@
 .card-subtitle {
   margin-top: 0.5rem;
 }
+.created-date {
+  font-size: 0.75rem;
+}
 
 .card-body {
   text-align: center;
-  /*border: 1px solid skyblue;*/
 }
 .card-body table {
   width: 100%;
+}
+.card-body table thead,
+.card-body table tfoot {
+  background-color: var(--color-dark-background);
 }
 .card-body .game-ratings tr:nth-child(odd) {
   background-color: var(--color-dark-surface-light);
@@ -76,9 +85,6 @@
   text-align: left;
   text-transform: capitalize;
   padding-left: 1rem;
-}
-.card-body tfoot {
-  background-color: var(--color-dark-background);
 }
 
 .card-footer {

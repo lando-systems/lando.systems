@@ -1,6 +1,7 @@
 export default [
   {
-    "title": "Game, Genie! Crunch Time",
+    "title": "Game, Genie!",
+    "subtitle": "Crunch Time",
     "thumb": "/thumb/ld53-game-genie-thumb.png",
     "date": "2023-05-01",
     "code": "https://github.com/bploeckelman/LudumDare53",
@@ -19,7 +20,8 @@ export default [
     }
   },
   {
-    "title": "Reapo Man: Death Who?",
+    "title": "Reapo Man",
+    "subtitle": "Death Who?",
     "thumb": "/thumb/ld52-reapo-man-thumb.png",
     "date": "2023-01-09",
     "code": "https://github.com/bploeckelman/LudumDare52",
@@ -76,7 +78,8 @@ export default [
     }
   },
   {
-    "title": "Banana Republic: Nuclear Power Plantain",
+    "title": "Banana Republic",
+    "subtitle": "Nuclear Power Plantain",
     "thumb": "/thumb/ld49-banana-republic-thumb.png",
     "date": "2021-10-04",
     "code": "https://github.com/bploeckelman/LudumDare49",
@@ -95,7 +98,8 @@ export default [
     }
   },
   {
-    "title": "Deeper State: Elon Flux",
+    "title": "Deeper State",
+    "subtitle": "Elon Flux",
     "thumb": "/thumb/ld48-deeper-state-thumb.png",
     "date": "2021-04-26",
     "code": "https://github.com/bploeckelman/LudumDare48",
@@ -152,7 +156,8 @@ export default [
     }
   },
   {
-    "title": "Ball of Duty: Special Drops",
+    "title": "Ball of Duty",
+    "subtitle": "Special Drops",
     "thumb": "/thumb/ld45-ball-of-duty-thumb.png",
     "date": "2019-10-07",
     "code": "https://github.com/bploeckelman/LudumDare45",
@@ -171,7 +176,8 @@ export default [
     }
   },
   {
-    "title": "Sofa Kingdom: Change of Thrones",
+    "title": "Sofa Kingdom",
+    "subtitle": "Change of Thrones",
     "thumb": "/thumb/ld44-sofa-kingdom-thumb.png",
     "date": "2019-04-29",
     "code": "https://github.com/bploeckelman/LudumDare44",
@@ -323,7 +329,8 @@ export default [
     }
   },
   {
-    "title": "Council of Obsolete Technologies",
+    "title": "C.O.O.T.",
+    "subtitle": "Council of Obsolete Technologies",
     "thumb": "/thumb/ld36-coot-thumb.png",
     "date": "2016-08-29",
     "code": "https://github.com/bploeckelman/LudumDare36",
@@ -418,7 +425,8 @@ export default [
     }
   },
   {
-    "title": "Bar Orders of Magnitude",
+    "title": "Bar Orders",
+    "subtitle": "(of magnitude)",
     "thumb": "/thumb/ld31-bar-orders-thumb.png",
     "date": "2014-12-08",
     "code": "https://github.com/bploeckelman/LudumDare31",

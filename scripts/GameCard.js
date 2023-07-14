@@ -18,10 +18,11 @@ const Rating = (elem, category, value) => {
 
   elem.innerHTML = `
     <td class="rating-icon">
-      <box-icon name="${rating_category_icons[category]}"
-                type="regular"
-                color="white"
-                size="xs"
+      <box-icon
+       name="${rating_category_icons[category]}"
+       type="regular"
+       color="white"
+       size="xs"
       />
     </td>
     <td class="rating-category"></td>

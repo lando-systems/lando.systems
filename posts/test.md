@@ -1,6 +1,6 @@
 # Post Heading
 
-![alt text](../images/logo-512.png)
+![alt text](../images/logo-512-min.png)
 
 ## Post content
 

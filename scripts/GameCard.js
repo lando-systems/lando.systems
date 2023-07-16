@@ -44,7 +44,7 @@ export const GameCard = (elem, attribs) => {
   elem.innerHTML = `
     <div class="card">
       <img class="card-image"
-           src="../images/logo-512.png"
+           src="../images/logo-512-min.png"
            alt="Game card"
       >
 

@@ -2,7 +2,8 @@ import {_} from './utils.js';
 
 /*
 TODO
-- move 'jam entry' link to bottom button/link (alongside 'code' and 'play')
+- make entire card (except footer? clickable to play the game
+  - for code or a blog post about the game, handle clicks separately in card footer
 - (up a level) add sorting options to re-arrange games list
   - sortable by: name, date, ratings (?)
 */
@@ -63,20 +64,14 @@ export const GameCard = (elem, attribs) => {
               <th>Rating</th>
             </thead>
             <tbody class="game-ratings"></tbody>
-            <tfoot>
-              <tr>
-               <td colspan="2">
-                 <a class="game-entry" href="#" target="_blank">Jam Entry</a>
-               </td>
-              </tr>
-            </tfoot>
           </table>
         </section>
       </div>
 
       <section class="card-footer">
-        <a class="button game-code" href="https://github.com" target="_blank">code</a>
-        <a class="button game-play" href="posts/" target="_blank">play</a>
+        <a class="button game-code" href="#" target="_blank">code</a>
+        <a class="button game-play" href="#" target="_blank">play</a>
+        <a class="button game-entry" href="#" target="_blank">entry</a>
       </section>
     </div>
   `;

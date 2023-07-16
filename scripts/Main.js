@@ -30,6 +30,4 @@ export const Main = (elem) => {
     GameCard(element, attribs);
   });
 
-  elem.querySelectorAll('.icon').forEach(Icon);
-
 };

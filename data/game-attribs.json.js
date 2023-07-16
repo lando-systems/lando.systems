@@ -330,7 +330,7 @@ export default [
   },
   {
     "title": "C.O.O.T.",
-    "subtitle": "Council of Obsolete Technologies",
+    "subtitle": "Council of Obsolete Tech",
     "thumb": "/thumb/ld36-coot-thumb.png",
     "date": "2016-08-29",
     "code": "https://github.com/bploeckelman/LudumDare36",

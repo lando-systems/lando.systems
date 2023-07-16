@@ -1,4 +1,3 @@
-import {Icon} from "./Icon.js";
 import {Header} from "./Header.js";
 import {GameCard} from "./GameCard.js";
 import {_} from "./utils.js";

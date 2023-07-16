@@ -1,39 +1,40 @@
 import {_} from './utils.js';
 
-// other good icons:
-// joystick, speaker, volume-full, microphone, ruler, film,
-// bomb, brain, meteor, cookie, donate-heart, bookmark-heart,
-const rating_category_icons = {
-  'overall': 'trophy',
-  'fun': 'happy-beaming',
-  'innovation': 'health',
-  'theme': 'key',
-  'graphics': 'image',
-  'audio': 'music',
-  'humor': 'like',
-  'mood': 'spa'
-};
+/*
+TODO
+- move 'jam entry' link to bottom button/link (alongside 'code' and 'play')
+- (up a level) add sorting options to re-arrange games list
+  - sortable by: name, date, ratings (?)
+*/
 
 const Rating = (elem, category, value) => {
 
+  // https://emojipedia.org/
+  // https://www.unicode.org/emoji/charts/emoji-list.html
+  const emoji = {
+    'overall': '&#x1f3c6;',   // trophy
+    'fun': '&#x1f929;',       // star struck - alt: &#x1f643;(upside down smile), &#x1f973; (partying face)
+    'innovation': '&#x2728;', // sparkles
+    'theme': '&#x1f4ee;',     // postbox - alt: &#x1f5dd; (old key), &#x1f5f3; (ballot box w/ballot)
+    'graphics': '&#x1f3a8;',  // palette - alt: &#x1f58c; (paintbrush), &#x1f58d; (crayon)
+    'audio': '&#x1f3a7;',     // headphones - alt: &#x1f3b6; (notes), &#x1f3bc; (musical score), &#x1f50a (speaker loud)
+    'humor': '&#x1f923;',     // rofl face
+    'mood': '&#x1f525;'       // heart on fire - alt: &#x1f497; (growing heart)
+  };
+
   elem.innerHTML = `
-    <td class="rating-icon">
-      <box-icon
-       name="${rating_category_icons[category]}"
-       type="regular"
-       color="white"
-       size="xs"
-      />
+    <td class="rating-category">
+       <span class="category-icon">${emoji[category]}</span>
+       <span class="category-name"></span>
     </td>
-    <td class="rating-category"></td>
     <td class="rating-value"></td>
   `;
 
-  let elem_category = elem.querySelector('.rating-category');
-  let elem_value = elem.querySelector('.rating-value');
+  let category_name = elem.querySelector('.category-name');
+  let category_value = elem.querySelector('.rating-value');
 
-  elem_category.innerText = category;
-  elem_value.innerText = value;
+  category_name.innerText = category;
+  category_value.innerText = value;
 
 };
 
@@ -58,13 +59,13 @@ export const GameCard = (elem, attribs) => {
         <section class="card-body">
           <table>
             <thead>
-              <th colspan="2">Category</th>
+              <th>Category</th>
               <th>Rating</th>
             </thead>
             <tbody class="game-ratings"></tbody>
             <tfoot>
               <tr>
-               <td colspan="3">
+               <td colspan="2">
                  <a class="game-entry" href="#" target="_blank">Jam Entry</a>
                </td>
               </tr>

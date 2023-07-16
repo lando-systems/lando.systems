@@ -8,18 +8,19 @@
 
   <link rel="icon" type="image/svg+xml" href="./images/favicon.svg" />
 
+  <link rel="stylesheet" href="./styles/base.css" />
+  <link rel="stylesheet" href="./styles/header.css" />
+  <link rel="stylesheet" href="./styles/game-cards.css" />
+
   <link rel="modulepreload" href="./scripts/utils.js" />
   <link rel="modulepreload" href="./scripts/Header.js" />
   <link rel="modulepreload" href="./scripts/GameCard.js" />
 
-  <link rel="stylesheet" href="./styles/base.css" />
-  <link rel="stylesheet" href="./styles/header.css" />
-  <link rel="stylesheet" href="./styles/game-cards.css" />
 </head>
 <body>
-  <script type="module">
-    import {Main} from './scripts/Main.js';
-    Main(document.querySelector('body'));
-  </script>
+<script type="module">
+  import { Main } from './scripts/Main.js';
+  Main(document.querySelector('body'));
+</script>
 </body>
 </html>

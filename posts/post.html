@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+  <title>Lando Systems</title>
+
+  <link rel="icon" type="image/svg+xml" href="../images/favicon.svg" />
+
+  <link rel="modulepreload" href="../scripts/utils.js" />
+  <link rel="modulepreload" href="../scripts/Header.js" />
+
+  <!-- Use zero-md to convert posts into html on the fly: https://zerodevx.github.io -->
+  <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
+
+  <link rel="stylesheet" href="../styles/base.css" />
+  <link rel="stylesheet" href="../styles/header.css" />
+  <link rel="stylesheet" href="../styles/markdown.css" />
+
+</head>
+<body>
+<script type="module">
+  import {Post} from '../scripts/Post.js';
+  Post(document.querySelector('body'), 'test.md');
+</script>
+</body>
+</html>

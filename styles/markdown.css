@@ -1,0 +1,14 @@
+.post-container {
+  color: var(--color-dark-text);
+  width: 60%;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}

@@ -1,0 +1,42 @@
+[
+  {
+    class: Dialog,
+    speaker: system,
+    text: "Enemy approaching..."
+  }
+  {
+    class: Dialog,
+    speaker: player,
+    text: "Identify yourself!"
+  }
+  {
+    class: Dialog,
+    speaker: boss2,
+    text: "O RLY?"
+  }
+  {
+    class: Dialog,
+    speaker: system,
+    text: "..."
+  }
+  {
+    class: Dialog,
+    speaker: boss2,
+    text: "O RLY?"
+  }
+  {
+    class: Dialog,
+    speaker: player,
+    text: "Ummm, move aside!"
+  }
+  {
+    class: Dialog,
+    speaker: boss2,
+    text: "O RLY?"
+  }
+  {
+    class: Dialog,
+    speaker: player,
+    text: "This is ridiculous... prepare to attack!"
+  }
+]

@@ -1,0 +1,349 @@
+
+sprites.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+coin
+  rotate: false
+  xy: 2, 2
+  size: 80, 16
+  orig: 80, 16
+  offset: 0, 0
+  index: -1
+dr-wily
+  rotate: false
+  xy: 390, 442
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+dracula
+  rotate: false
+  xy: 260, 278
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fire-flower
+  rotate: false
+  xy: 390, 358
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+ganon
+  rotate: false
+  xy: 390, 376
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+goomba-cloak
+  rotate: false
+  xy: 260, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+goomba-cloak-empty
+  rotate: false
+  xy: 150, 2
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+goomba-hurt
+  rotate: false
+  xy: 294, 160
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+goomba-hurt-straight-on
+  rotate: false
+  xy: 260, 92
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goomba-kids
+  rotate: false
+  xy: 2, 54
+  size: 160, 32
+  orig: 160, 32
+  offset: 0, 0
+  index: -1
+goomba-normal-walk1
+  rotate: false
+  xy: 218, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goomba-normal-walk2
+  rotate: false
+  xy: 326, 224
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goomba-sad-straight-on
+  rotate: false
+  xy: 344, 258
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goomba-sad-walk
+  rotate: false
+  xy: 184, 2
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+goomba-squished
+  rotate: false
+  xy: 474, 404
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goomba-straight-high
+  rotate: false
+  xy: 344, 240
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goomba-straight-on
+  rotate: false
+  xy: 474, 386
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goomba-straight-rage
+  rotate: false
+  xy: 493, 420
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goomba-walk1
+  rotate: false
+  xy: 492, 402
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goomba-walk2
+  rotate: false
+  xy: 344, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goomba-wife
+  rotate: false
+  xy: 294, 142
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+king-hippo
+  rotate: false
+  xy: 260, 378
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+luigi
+  rotate: false
+  xy: 260, 212
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+mario-big-jump
+  rotate: false
+  xy: 456, 406
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-big-straight-on
+  rotate: false
+  xy: 475, 440
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-big-walk1
+  rotate: false
+  xy: 456, 440
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+mario-big-walk2
+  rotate: false
+  xy: 326, 276
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+mario-big-walk3
+  rotate: false
+  xy: 260, 110
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+mario-screen
+  rotate: false
+  xy: 260, 344
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+mario-small-die
+  rotate: false
+  xy: 492, 384
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+mario-small-jump
+  rotate: false
+  xy: 474, 368
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+mario-small-straight-on
+  rotate: false
+  xy: 456, 354
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+mario-small-walk1
+  rotate: false
+  xy: 493, 456
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+mario-small-walk2
+  rotate: false
+  xy: 493, 438
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+mario-small-walk3
+  rotate: false
+  xy: 474, 422
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+mother-brain
+  rotate: false
+  xy: 2, 88
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+mushrooms
+  rotate: false
+  xy: 456, 474
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+scifi-fx
+  rotate: false
+  xy: 2, 154
+  size: 256, 352
+  orig: 256, 352
+  offset: 0, 0
+  index: -1
+sparkle
+  rotate: false
+  xy: 492, 366
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+spikes-down
+  rotate: false
+  xy: 326, 310
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 84, 2
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+thought
+  rotate: false
+  xy: 326, 242
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+tube-bg
+  rotate: false
+  xy: 345, 276
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+tube-broken
+  rotate: false
+  xy: 456, 372
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+tube-empty
+  rotate: false
+  xy: 2, 20
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+tube-mario-embryo
+  rotate: false
+  xy: 164, 54
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+tube-mario-embryo-spine
+  rotate: false
+  xy: 84, 20
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+tube-mario-large
+  rotate: false
+  xy: 166, 20
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+tube-mario-small
+  rotate: false
+  xy: 260, 178
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1

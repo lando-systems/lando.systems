@@ -1,0 +1,158 @@
+<!doctype html>
+<html>
+       <head>
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-103730179-1"></script>
+            <script>
+              window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+
+                  gtag('config', 'UA-103730179-1');
+            </script>
+              <title>Block Runner 2049</title>
+              <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+              <meta id="gameViewport" name="viewport" content="width=device-width initial-scale=1">
+              <link href="styles.css" rel="stylesheet" type="text/css">
+              <script src="soundmanager2-setup.js"></script>
+  			  <script src="soundmanager2-jsmin.js"></script>
+       </head>
+
+       <body style="height: 100%; min-height: 100vh">
+<!--              <a class="superdev" href="javascript:%7B%20window.__gwt_bookmarklet_params%20%3D%20%7B'server_url'%3A'http%3A%2F%2Flocalhost%3A9876%2F'%7D%3B%20var%20s%20%3D%20document.createElement('script')%3B%20s.src%20%3D%20'http%3A%2F%2Flocalhost%3A9876%2Fdev_mode_on.js'%3B%20void(document.getElementsByTagName('head')%5B0%5D.appendChild(s))%3B%7D">&#8635;</a>-->
+              <div oncontextmenu="return false;" align="center" id="embed-html"></div>
+              <p style="text-align:center;font-family:'Bladerunner';">
+                     <a style="color:cyan" href="https://ldjam.com/events/ludum-dare/47/block-runner-2049">https://ldjam.com/events/ludum-dare/47/block-runner-2049</a>
+              </p>
+              <table id='leaderboard' border=1></table>
+              <div id="prev-next">
+                     <button id="previous">Previous</button>
+                     <span id="current-page">1</span>
+                     <button id="next">next</button>
+              </div>
+              <script type="text/javascript" src="html/html.nocache.js"></script>
+       </body>
+
+       <script>
+              document.getElementById('gameViewport').setAttribute('content',
+                 'width=device-width initial-scale=' + 1/window.devicePixelRatio);
+
+              window.onkeydown =
+                      function(event) {
+                             // prevent all navigation keys except the space key
+                             if([33, 34, 35, 36, 37, 38, 39, 40].indexOf(event.keyCode) > -1) {
+                                    event.preventDefault();
+                                    return false;
+                             }
+                      };
+
+              window.onkeypress =
+                      function(event) {
+                             // prevent the space key (page scroll)
+                             if(event.code === "Space"){
+                                    event.preventDefault();
+                                    return false;
+                             }
+                      };
+
+              function handleMouseDown(evt) {
+                evt.preventDefault();
+                evt.stopPropagation();
+                window.focus();
+              }
+
+              function handleMouseUp(evt) {
+                evt.preventDefault();
+                evt.stopPropagation();
+                evt.target.style.cursor = '';
+              }
+
+              function addCell(tr, val) {
+                var td = document.createElement('td');
+
+                td.innerHTML = val;
+                tr.appendChild(td)
+              }
+
+              function addRow(tbl, val_1, val_2) {
+                var tr = document.createElement('tr');
+
+                addCell(tr, val_1.toLowerCase());
+                addCell(tr, val_2);
+
+                tbl.appendChild(tr)
+              }
+
+              function addCell(tr, val) {
+                var td = document.createElement('td');
+
+                td.innerHTML = val;
+                tr.appendChild(td)
+              }
+
+              (async function init(){
+			    var response = await fetch('https://lando.systems/ld47-leaderboard');
+			    var data = await response.json();
+			    tbl = document.getElementById('leaderboard');
+			    for (let x of data) {
+				  addRow(tbl, x.name, x.score);
+		 	    }
+		      })();
+
+
+                    var page = 0;
+                    canAdvance = true;
+
+              const getPage = async function(type) {
+
+                     
+                     if(type == "next"){
+                            if (canAdvance)
+                     {
+                            page ++;
+                     }
+                            
+                     }
+              
+                     if(type == "previous"){
+                            if(page > 0)
+                            {
+                                  page--
+                            }
+                     }
+                     getUrl = 'https://lando.systems/ld47-leaderboard/scores?page='+page;
+
+                     var response = await fetch(getUrl);
+                         var data = await response.json();
+                         console.log(data.content);
+                         tbl = document.getElementById('leaderboard');
+                         tbl.children = [];
+
+                         if(data.content.length > 0)
+                         {
+                                canAdvance = true;
+                         while (tbl.firstChild) {
+                                  tbl.removeChild(tbl.firstChild);
+                            }
+
+			    for (let x of data.content) {
+				  addRow(tbl, x.name, x.score);
+                          }
+                          document.getElementById('current-page').innerHTML = page+1;
+                     }
+                     else {
+                            canAdvance = false;
+                     }
+              }
+
+              document.getElementById('embed-html').addEventListener('mousedown', handleMouseDown, false);
+              document.getElementById('embed-html').addEventListener('mouseup', handleMouseUp, false);
+
+              document.getElementById("previous").addEventListener('click',function(){
+                     getPage('previous')
+              });
+              document.getElementById("next").addEventListener('click',function(){
+                     getPage('next')
+              });
+       </script>
+</html>

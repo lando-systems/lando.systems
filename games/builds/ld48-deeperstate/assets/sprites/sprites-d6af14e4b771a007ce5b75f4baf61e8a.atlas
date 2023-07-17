@@ -1,0 +1,1756 @@
+
+sprites.png
+size: 4096, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+backgrounds/alien
+  rotate: false
+  xy: 1, 1365
+  size: 640, 320
+  orig: 640, 320
+  offset: 0, 0
+  index: -1
+backgrounds/core
+  rotate: false
+  xy: 645, 546
+  size: 320, 213
+  orig: 320, 213
+  offset: 0, 0
+  index: -1
+backgrounds/desert
+  rotate: false
+  xy: 1289, 1203
+  size: 355, 200
+  orig: 355, 200
+  offset: 0, 0
+  index: -1
+backgrounds/reptilian
+  rotate: false
+  xy: 643, 1727
+  size: 640, 320
+  orig: 640, 320
+  offset: 0, 0
+  index: -1
+backgrounds/sunset
+  rotate: false
+  xy: 1, 1687
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+bosses/musk/musk-bullet-roadster/musk-bullet-roadster
+  rotate: false
+  xy: 3861, 2011
+  size: 160, 36
+  orig: 160, 36
+  offset: 0, 0
+  index: 0
+bosses/musk/musk-bullet-roadster/musk-bullet-roadster
+  rotate: false
+  xy: 1, 39
+  size: 160, 36
+  orig: 160, 36
+  offset: 0, 0
+  index: 1
+bosses/musk/musk-bullet-rocket/musk-bullet-roadster
+  rotate: false
+  xy: 1, 1
+  size: 160, 36
+  orig: 160, 36
+  offset: 0, 0
+  index: 1
+bosses/musk/musk-bullet-rocket/musk-bullet-rocket
+  rotate: false
+  xy: 1483, 335
+  size: 160, 36
+  orig: 160, 36
+  offset: 0, 0
+  index: 1
+bosses/musk/musk-hit/musk-hit
+  rotate: false
+  xy: 1, 1043
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+bosses/musk/musk-hit/musk-hit
+  rotate: false
+  xy: 643, 1405
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+bosses/musk/musk-hit/musk-hit
+  rotate: false
+  xy: 1285, 1727
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+bosses/musk/musk-hit/musk-hit
+  rotate: false
+  xy: 1, 721
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+bosses/musk/musk-idle/musk-idle
+  rotate: false
+  xy: 965, 1405
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+bosses/musk/musk-idle/musk-idle
+  rotate: false
+  xy: 1607, 1727
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+bosses/musk/musk-idle/musk-idle
+  rotate: false
+  xy: 1, 399
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+bosses/musk/musk-idle/musk-idle
+  rotate: false
+  xy: 1287, 1405
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+bosses/musk/musk-idle/musk-idle
+  rotate: false
+  xy: 1929, 1727
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 4
+bosses/musk/musk-idle/musk-idle
+  rotate: false
+  xy: 1, 77
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 5
+bosses/musk/musk-idle/musk-idle
+  rotate: false
+  xy: 1609, 1405
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 6
+bosses/musk/musk-idle/musk-idle
+  rotate: false
+  xy: 2251, 1727
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 7
+bosses/musk/musk-idle/musk-idle
+  rotate: false
+  xy: 1931, 1405
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 8
+bosses/musk/musk-openchest/musk-openchest
+  rotate: false
+  xy: 2573, 1727
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+bosses/musk/musk-openchest/musk-openchest
+  rotate: false
+  xy: 2253, 1405
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+bosses/musk/musk-openchest/musk-openchest
+  rotate: false
+  xy: 2895, 1727
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+bosses/musk/musk-openchest/musk-openchest
+  rotate: false
+  xy: 2575, 1405
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+bosses/musk/musk-roadster/musk-roadster
+  rotate: false
+  xy: 3217, 1727
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+bosses/musk/musk-roadster/musk-roadster
+  rotate: false
+  xy: 2897, 1405
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+bosses/musk/musk-roadster/musk-roadster
+  rotate: false
+  xy: 3539, 1727
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+bosses/musk/musk-roadster/musk-roadster
+  rotate: false
+  xy: 3219, 1405
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+bosses/musk/musk-roadster/musk-roadster
+  rotate: false
+  xy: 323, 1043
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 4
+bosses/musk/musk-roadster/musk-roadster
+  rotate: false
+  xy: 323, 721
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 5
+bosses/musk/musk-rocket/musk-rocket
+  rotate: false
+  xy: 323, 399
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 0
+bosses/musk/musk-rocket/musk-rocket
+  rotate: false
+  xy: 323, 77
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 1
+bosses/musk/musk-rocket/musk-rocket
+  rotate: false
+  xy: 3541, 1405
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 2
+bosses/musk/musk-rocket/musk-rocket
+  rotate: false
+  xy: 645, 1083
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 3
+bosses/musk/musk-rocket/musk-rocket
+  rotate: false
+  xy: 645, 761
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 4
+bosses/musk/musk-rocket/musk-rocket
+  rotate: false
+  xy: 967, 1083
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: 5
+bosses/zuck-tank/zuck-tank-idle-a/zuck-tank-idle-a
+  rotate: false
+  xy: 967, 567
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 0
+bosses/zuck-tank/zuck-tank-idle-a/zuck-tank-idle-a
+  rotate: false
+  xy: 645, 30
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 1
+bosses/zuck-tank/zuck-tank-idle-a/zuck-tank-idle-a
+  rotate: false
+  xy: 1646, 1147
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 2
+bosses/zuck-tank/zuck-tank-idle-a/zuck-tank-idle-a
+  rotate: false
+  xy: 1904, 1147
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 3
+bosses/zuck-tank/zuck-tank-idle-b/zuck-tank-idle-b
+  rotate: false
+  xy: 2162, 1147
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 0
+bosses/zuck-tank/zuck-tank-idle-b/zuck-tank-idle-b
+  rotate: false
+  xy: 2420, 1147
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 1
+bosses/zuck-tank/zuck-tank-idle-b/zuck-tank-idle-b
+  rotate: false
+  xy: 2678, 1147
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 2
+bosses/zuck-tank/zuck-tank-idle-b/zuck-tank-idle-b
+  rotate: false
+  xy: 2936, 1147
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 3
+bosses/zuck-tank/zuck-tank-lower/zuck-tank-lower
+  rotate: false
+  xy: 3194, 1147
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 0
+bosses/zuck-tank/zuck-tank-lower/zuck-tank-lower
+  rotate: false
+  xy: 3452, 1147
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 1
+bosses/zuck-tank/zuck-tank-lower/zuck-tank-lower
+  rotate: false
+  xy: 3710, 1147
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 2
+bosses/zuck-tank/zuck-tank-lower/zuck-tank-lower
+  rotate: false
+  xy: 1289, 945
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 3
+bosses/zuck-tank/zuck-tank-missile/zuck-missile
+  rotate: false
+  xy: 1547, 1157
+  size: 86, 44
+  orig: 86, 44
+  offset: 0, 0
+  index: 0
+bosses/zuck-tank/zuck-tank-missile/zuck-missile
+  rotate: false
+  xy: 3869, 1101
+  size: 86, 44
+  orig: 86, 44
+  offset: 0, 0
+  index: 1
+bosses/zuck-tank/zuck-tank-missile/zuck-missile
+  rotate: false
+  xy: 1999, 585
+  size: 86, 44
+  orig: 86, 44
+  offset: 0, 0
+  index: 2
+bosses/zuck-tank/zuck-tank-missile/zuck-missile
+  rotate: false
+  xy: 2257, 843
+  size: 86, 44
+  orig: 86, 44
+  offset: 0, 0
+  index: 3
+bosses/zuck-tank/zuck-tank-ram-state/zuck-tank-ram-state
+  rotate: false
+  xy: 1225, 687
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 0
+bosses/zuck-tank/zuck-tank-ram-state/zuck-tank-ram-state
+  rotate: false
+  xy: 1225, 429
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 1
+bosses/zuck-tank/zuck-tank-ram-state/zuck-tank-ram-state
+  rotate: false
+  xy: 967, 309
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 2
+bosses/zuck-tank/zuck-tank-ram-state/zuck-tank-ram-state
+  rotate: false
+  xy: 903, 51
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 3
+bosses/zuck-tank/zuck-tank-ram-tell/zuck-tank-ram-tell
+  rotate: false
+  xy: 1225, 171
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 0
+bosses/zuck-tank/zuck-tank-ram-tell/zuck-tank-ram-tell
+  rotate: false
+  xy: 1547, 889
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 1
+bosses/zuck-tank/zuck-tank-ram-tell/zuck-tank-ram-tell
+  rotate: false
+  xy: 1805, 889
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 2
+bosses/zuck-tank/zuck-tank-ram-tell/zuck-tank-ram-tell
+  rotate: false
+  xy: 2063, 889
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 3
+bosses/zuck-tank/zuck-tank-ram-tell/zuck-tank-ram-tell
+  rotate: false
+  xy: 2321, 889
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 4
+bosses/zuck-tank/zuck-tank-ram-tell/zuck-tank-ram-tell
+  rotate: false
+  xy: 2579, 889
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 5
+bosses/zuck-tank/zuck-tank-ram-tell/zuck-tank-ram-tell
+  rotate: false
+  xy: 2837, 889
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 6
+bosses/zuck-tank/zuck-tank-ram-tell/zuck-tank-ram-tell
+  rotate: false
+  xy: 3095, 889
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 7
+bosses/zuck-tank/zuck-tank-shoot/zuck tank werk
+  rotate: false
+  xy: 645, 288
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+bosses/zuck-tank/zuck-tank-shoot/zuck-tank-shoot
+  rotate: false
+  xy: 3353, 889
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 0
+bosses/zuck-tank/zuck-tank-shoot/zuck-tank-shoot
+  rotate: false
+  xy: 3611, 889
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 1
+bosses/zuck-tank/zuck-tank-shoot/zuck-tank-shoot
+  rotate: false
+  xy: 1483, 631
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 2
+bosses/zuck-tank/zuck-tank-talk/zuck-tank-talk
+  rotate: false
+  xy: 1483, 373
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 0
+bosses/zuck-tank/zuck-tank-talk/zuck-tank-talk
+  rotate: false
+  xy: 1741, 631
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 1
+bosses/zuck-tank/zuck-tank-talk/zuck-tank-talk
+  rotate: false
+  xy: 1741, 373
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 2
+bosses/zuck-tank/zuck-tank-talk/zuck-tank-talk
+  rotate: false
+  xy: 1999, 631
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 3
+debug-patch
+  rotate: false
+  xy: 3895, 1773
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+enemies/gray/gray-idle
+  rotate: false
+  xy: 3161, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+enemies/gray/gray-idle
+  rotate: false
+  xy: 3195, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+enemies/gray/gray-idle
+  rotate: false
+  xy: 3229, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+enemies/gray/gray-idle
+  rotate: false
+  xy: 3263, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+enemies/gray/gray-jump
+  rotate: false
+  xy: 3297, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+enemies/gray/gray-jump
+  rotate: false
+  xy: 3331, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+enemies/gray/gray-jump
+  rotate: false
+  xy: 3365, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+enemies/gray/gray-jump
+  rotate: false
+  xy: 3399, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+enemies/gray/gray-run
+  rotate: false
+  xy: 3433, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+enemies/gray/gray-run
+  rotate: false
+  xy: 3467, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+enemies/gray/gray-run
+  rotate: false
+  xy: 3501, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+enemies/gray/gray-run
+  rotate: false
+  xy: 3535, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+enemies/gray/gray-run
+  rotate: false
+  xy: 3569, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+enemies/gray/gray-run
+  rotate: false
+  xy: 3603, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+enemies/gray/gray-run
+  rotate: false
+  xy: 3637, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+enemies/gray/gray-run
+  rotate: false
+  xy: 3671, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+enemies/gray/gray-run
+  rotate: false
+  xy: 3705, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 8
+enemies/gray/gray-run
+  rotate: false
+  xy: 3739, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 9
+enemies/gray/gray-shoot
+  rotate: false
+  xy: 3773, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+enemies/gray/gray-shoot
+  rotate: false
+  xy: 3807, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+enemies/gray/gray-shoot
+  rotate: false
+  xy: 3807, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+enemies/gray/gray-shoot
+  rotate: false
+  xy: 1483, 169
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+enemies/reptilian-baby/reptilian-baby
+  rotate: false
+  xy: 1225, 1017
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 1
+enemies/reptilian-baby/reptilian-baby
+  rotate: false
+  xy: 1225, 1017
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 2
+enemies/reptilian-baby/reptilian-baby
+  rotate: false
+  xy: 903, 480
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 3
+enemies/reptilian-baby/reptilian-baby
+  rotate: false
+  xy: 903, 480
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 8
+enemies/reptilian-baby/reptilian-baby
+  rotate: false
+  xy: 1161, 243
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 4
+enemies/reptilian-baby/reptilian-baby
+  rotate: false
+  xy: 1161, 243
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 7
+enemies/reptilian-baby/reptilian-baby
+  rotate: false
+  xy: 163, 11
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 5
+enemies/reptilian-baby/reptilian-baby
+  rotate: false
+  xy: 163, 11
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 6
+enemies/reptilian/reptilian-idle/reptilian-idle
+  rotate: false
+  xy: 1483, 269
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 0
+enemies/reptilian/reptilian-idle/reptilian-idle
+  rotate: false
+  xy: 3869, 1035
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 1
+enemies/reptilian/reptilian-idle/reptilian-idle
+  rotate: false
+  xy: 1999, 519
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 2
+enemies/reptilian/reptilian-idle/reptilian-idle
+  rotate: false
+  xy: 2257, 777
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 3
+enemies/reptilian/reptilian-jump/reptilian-jump
+  rotate: false
+  xy: 3861, 1879
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 0
+enemies/reptilian/reptilian-jump/reptilian-jump
+  rotate: false
+  xy: 3861, 1879
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 2
+enemies/reptilian/reptilian-jump/reptilian-jump
+  rotate: false
+  xy: 3927, 1945
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 1
+enemies/reptilian/reptilian-jump/reptilian-jump
+  rotate: false
+  xy: 1225, 951
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 3
+enemies/reptilian/reptilian-run/reptilian-run
+  rotate: false
+  xy: 903, 414
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 0
+enemies/reptilian/reptilian-run/reptilian-run
+  rotate: false
+  xy: 1161, 177
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 1
+enemies/reptilian/reptilian-run/reptilian-run
+  rotate: false
+  xy: 197, 11
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 2
+enemies/reptilian/reptilian-run/reptilian-run
+  rotate: false
+  xy: 1483, 203
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 3
+enemies/reptilian/reptilian-run/reptilian-run
+  rotate: false
+  xy: 1517, 269
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 4
+enemies/reptilian/reptilian-shoot/reptilian-shoot
+  rotate: false
+  xy: 3869, 969
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 0
+enemies/reptilian/reptilian-shoot/reptilian-shoot
+  rotate: false
+  xy: 3903, 1035
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 1
+enemies/reptilian/reptilian-shoot/reptilian-shoot
+  rotate: false
+  xy: 1999, 453
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 2
+enemies/reptilian/reptilian-shoot/reptilian-shoot
+  rotate: false
+  xy: 2033, 519
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 3
+enemies/soldier/soldier-idle
+  rotate: false
+  xy: 1483, 893
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 0
+enemies/soldier/soldier-idle
+  rotate: false
+  xy: 2257, 725
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 1
+enemies/soldier/soldier-idle
+  rotate: false
+  xy: 2291, 791
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 2
+enemies/soldier/soldier-idle
+  rotate: false
+  xy: 3861, 1827
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 3
+enemies/soldier/soldier-jump
+  rotate: false
+  xy: 3895, 1893
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 0
+enemies/soldier/soldier-jump
+  rotate: false
+  xy: 3961, 1959
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 1
+enemies/soldier/soldier-jump
+  rotate: false
+  xy: 903, 362
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 2
+enemies/soldier/soldier-jump
+  rotate: false
+  xy: 1161, 125
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 3
+enemies/soldier/soldier-run
+  rotate: false
+  xy: 231, 25
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 0
+enemies/soldier/soldier-run
+  rotate: false
+  xy: 1517, 217
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 1
+enemies/soldier/soldier-run
+  rotate: false
+  xy: 1551, 283
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 2
+enemies/soldier/soldier-run
+  rotate: false
+  xy: 3869, 917
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 3
+enemies/soldier/soldier-run
+  rotate: false
+  xy: 3903, 983
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 4
+enemies/soldier/soldier-run
+  rotate: false
+  xy: 1999, 401
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 5
+enemies/soldier/soldier-run
+  rotate: false
+  xy: 2033, 467
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 6
+enemies/soldier/soldier-run
+  rotate: false
+  xy: 2257, 673
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 7
+enemies/soldier/soldier-run
+  rotate: false
+  xy: 2291, 739
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 8
+enemies/soldier/soldier-run
+  rotate: false
+  xy: 3861, 1775
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 9
+enemies/soldier/soldier-shoot
+  rotate: false
+  xy: 3895, 1841
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 0
+enemies/soldier/soldier-shoot
+  rotate: false
+  xy: 903, 310
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 1
+enemies/soldier/soldier-shoot
+  rotate: false
+  xy: 903, 310
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 3
+enemies/soldier/soldier-shoot
+  rotate: false
+  xy: 1161, 73
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 2
+interactables/alien-gate-closed
+  rotate: false
+  xy: 1259, 1033
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 0
+interactables/alien-gate-closed
+  rotate: false
+  xy: 937, 496
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 1
+interactables/alien-gate-closed
+  rotate: false
+  xy: 1195, 259
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 2
+interactables/alien-gate-opening
+  rotate: false
+  xy: 3937, 1051
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 0
+interactables/alien-gate-opening
+  rotate: false
+  xy: 2067, 535
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 1
+interactables/alien-gate-opening
+  rotate: false
+  xy: 1517, 895
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 2
+interactables/alien-gate-opening
+  rotate: false
+  xy: 2325, 793
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 3
+interactables/door
+  rotate: false
+  xy: 3929, 1895
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 0
+interactables/door
+  rotate: false
+  xy: 3995, 1961
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 1
+interactables/door
+  rotate: false
+  xy: 1259, 983
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 2
+interactables/door
+  rotate: false
+  xy: 937, 446
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 3
+interactables/door
+  rotate: false
+  xy: 1195, 209
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 4
+interactables/door
+  rotate: false
+  xy: 3937, 1001
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 5
+interactables/door
+  rotate: false
+  xy: 2067, 485
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 6
+interactables/lever
+  rotate: false
+  xy: 903, 33
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+interactables/lever
+  rotate: false
+  xy: 1161, 55
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+interactables/lever
+  rotate: false
+  xy: 265, 25
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+interactables/pizza-gate-closed
+  rotate: false
+  xy: 2325, 743
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 0
+interactables/pizza-gate-opening
+  rotate: false
+  xy: 1619, 285
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 0
+interactables/pizza-gate-opening
+  rotate: false
+  xy: 3929, 1845
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 1
+interactables/pizza-gate-opening
+  rotate: false
+  xy: 937, 396
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 2
+interactables/pizza-gate-opening
+  rotate: false
+  xy: 1195, 159
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 3
+interactables/reptilian-gate-closed
+  rotate: false
+  xy: 3937, 951
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 0
+interactables/reptilian-gate-closed
+  rotate: false
+  xy: 2067, 435
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 1
+interactables/reptilian-gate-closed
+  rotate: false
+  xy: 2325, 693
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 2
+interactables/reptilian-gate-opening
+  rotate: false
+  xy: 3929, 1795
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 0
+interactables/reptilian-gate-opening
+  rotate: false
+  xy: 937, 346
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 1
+interactables/reptilian-gate-opening
+  rotate: false
+  xy: 1195, 109
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 2
+interactables/reptilian-gate-opening
+  rotate: false
+  xy: 1551, 199
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: 3
+particles/circle
+  rotate: false
+  xy: 2291, 671
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+particles/ring
+  rotate: false
+  xy: 3861, 1945
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+particles/smoke
+  rotate: false
+  xy: 967, 825
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+particles/sparkle
+  rotate: false
+  xy: 2087, 588
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+pets/cat
+  rotate: false
+  xy: 3869, 891
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: 0
+pets/cat
+  rotate: false
+  xy: 1999, 375
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: 1
+pets/cat
+  rotate: false
+  xy: 3903, 923
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: 2
+pets/cat
+  rotate: false
+  xy: 2033, 407
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: 3
+pets/cat
+  rotate: false
+  xy: 2291, 645
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: 4
+pets/cat
+  rotate: false
+  xy: 3895, 1747
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: 5
+pets/dog
+  rotate: false
+  xy: 2164, 597
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+pets/dog
+  rotate: false
+  xy: 1713, 339
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+pets/dog
+  rotate: false
+  xy: 2413, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+pets/dog
+  rotate: false
+  xy: 333, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+pets/dog
+  rotate: false
+  xy: 2198, 597
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+pets/dog
+  rotate: false
+  xy: 1747, 339
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+pickups/bitcoin/bitcoin-coin
+  rotate: false
+  xy: 4023, 2015
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+pickups/bitcoin/bitcoin-coin
+  rotate: false
+  xy: 4023, 2015
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 9
+pickups/bitcoin/bitcoin-coin
+  rotate: false
+  xy: 1645, 339
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+pickups/bitcoin/bitcoin-coin
+  rotate: false
+  xy: 2345, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+pickups/bitcoin/bitcoin-coin
+  rotate: false
+  xy: 265, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+pickups/bitcoin/bitcoin-coin
+  rotate: false
+  xy: 1551, 249
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+pickups/bitcoin/bitcoin-coin
+  rotate: false
+  xy: 1585, 301
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+pickups/bitcoin/bitcoin-coin
+  rotate: false
+  xy: 3903, 949
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+pickups/bitcoin/bitcoin-coin
+  rotate: false
+  xy: 2033, 433
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+pickups/bitcoin/bitcoin-coin
+  rotate: false
+  xy: 2257, 639
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 8
+pickups/bitcoin/bitcoin-coin
+  rotate: false
+  xy: 2291, 705
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 10
+pickups/bitcoin/bitcoin-coin
+  rotate: false
+  xy: 3861, 1741
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 11
+pickups/bitcoin/bitcoin-coin
+  rotate: false
+  xy: 3895, 1807
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 12
+pickups/bitcoin/bitcoin-coin
+  rotate: false
+  xy: 2130, 597
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 13
+pickups/bitcoin/bitcoin-coin
+  rotate: false
+  xy: 4057, 2015
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 14
+pickups/bitcoin/bitcoin-coin
+  rotate: false
+  xy: 1679, 339
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 15
+pickups/bitcoin/bitcoin-coin
+  rotate: false
+  xy: 2379, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 16
+pickups/bitcoin/bitcoin-coin
+  rotate: false
+  xy: 299, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 17
+pickups/bitcoin/bitcoin-coin
+  rotate: false
+  xy: 1585, 267
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 18
+pickups/dogecoin/doge-coin
+  rotate: false
+  xy: 2447, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+pickups/dogecoin/doge-coin
+  rotate: false
+  xy: 2447, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+pickups/dogecoin/doge-coin
+  rotate: false
+  xy: 367, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+pickups/dogecoin/doge-coin
+  rotate: false
+  xy: 1781, 339
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+pickups/dogecoin/doge-coin
+  rotate: false
+  xy: 2481, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+pickups/dogecoin/doge-coin
+  rotate: false
+  xy: 401, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+pickups/dogecoin/doge-coin
+  rotate: false
+  xy: 1815, 339
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+pickups/dogecoin/doge-coin
+  rotate: false
+  xy: 2515, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+pickups/dogecoin/doge-coin
+  rotate: false
+  xy: 435, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 8
+pickups/dogecoin/doge-coin
+  rotate: false
+  xy: 1849, 339
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 9
+pickups/dogecoin/doge-coin
+  rotate: false
+  xy: 2549, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 10
+pickups/dogecoin/doge-coin
+  rotate: false
+  xy: 469, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 11
+pickups/dogecoin/doge-coin
+  rotate: false
+  xy: 1883, 339
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 12
+pickups/dogecoin/doge-coin
+  rotate: false
+  xy: 2583, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 13
+pickups/dogecoin/doge-coin
+  rotate: false
+  xy: 503, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 14
+pickups/dogecoin/doge-coin
+  rotate: false
+  xy: 1917, 339
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 15
+pickups/dogecoin/doge-coin
+  rotate: false
+  xy: 2617, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 16
+pickups/dogecoin/doge-coin
+  rotate: false
+  xy: 537, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 17
+pickups/dogecoin/doge-coin
+  rotate: false
+  xy: 1951, 339
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 18
+pickups/dogecoin/doge-coin
+  rotate: false
+  xy: 2651, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 19
+pickups/dogecoin/doge-coin
+  rotate: false
+  xy: 571, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 20
+pickups/dogecoin/doge-coin
+  rotate: false
+  xy: 2685, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 21
+pickups/dogecoin/doge-coin
+  rotate: false
+  xy: 605, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 22
+player/ghost-idle
+  rotate: false
+  xy: 2719, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+player/ghost-idle
+  rotate: false
+  xy: 2753, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+player/ghost-idle
+  rotate: false
+  xy: 2787, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+player/ghost-idle
+  rotate: false
+  xy: 2821, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+player/ghost-idle
+  rotate: false
+  xy: 2855, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+player/ghost-idle
+  rotate: false
+  xy: 2889, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+player/ghost-jump
+  rotate: false
+  xy: 2923, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+player/ghost-move
+  rotate: false
+  xy: 2957, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+player/ghost-move
+  rotate: false
+  xy: 2991, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+player/ghost-move
+  rotate: false
+  xy: 3025, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+player/ghost-move
+  rotate: false
+  xy: 3059, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+player/ghost-move
+  rotate: false
+  xy: 3093, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+player/ghost-move
+  rotate: false
+  xy: 3127, 855
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+round_box
+  rotate: false
+  xy: 1517, 183
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+world/elevator-indicator
+  rotate: false
+  xy: 2232, 597
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: 1
+world/elevator-indicator
+  rotate: false
+  xy: 3841, 855
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: 2
+world/elevator-indicator
+  rotate: false
+  xy: 2325, 659
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: 3
+world/elevator-indicator
+  rotate: false
+  xy: 3929, 1761
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: 4
+world/elevator-platform
+  rotate: false
+  xy: 1547, 1147
+  size: 48, 8
+  orig: 48, 8
+  offset: 0, 0
+  index: 0

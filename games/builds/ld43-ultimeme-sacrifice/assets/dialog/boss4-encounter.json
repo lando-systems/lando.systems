@@ -1,0 +1,27 @@
+[
+  {
+    class: Dialog,
+    speaker: system,
+    text: "Enemy approaching..."
+  }
+  {
+    class: Dialog,
+    speaker: player,
+    text: "What now? Identify yourself!"
+  }
+  {
+    class: Dialog,
+    speaker: boss4,
+    text: "Oh, hey, yeah I'm Steve.\nCan I borrow some money?"
+  }
+  {
+    class: Dialog,
+    speaker: player,
+    text: "What? No you can't borrow any money,\nwe're in a life or death situation here\nmove aside!"
+  }
+  {
+    class: Dialog,
+    speaker: boss4,
+    text: "Don't worry bro,\nI'll pay you back next week."
+  }
+]

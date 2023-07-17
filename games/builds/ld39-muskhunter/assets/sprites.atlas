@@ -1,0 +1,888 @@
+
+sprites.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BasicGun
+  rotate: false
+  xy: 648, 912
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+BasicGunAnim
+  rotate: false
+  xy: 186, 396
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 0
+BasicGunAnim
+  rotate: false
+  xy: 703, 912
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 1
+BoostersLarge
+  rotate: false
+  xy: 758, 912
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+BoostersLargeAnim
+  rotate: false
+  xy: 813, 912
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 0
+BoostersLargeAnim
+  rotate: false
+  xy: 868, 912
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 1
+BoostersSmall
+  rotate: false
+  xy: 923, 912
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+BoostersSmallAnim
+  rotate: false
+  xy: 2, 138
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 0
+BoostersSmallAnim
+  rotate: false
+  xy: 2, 26
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 1
+Boss1Anim
+  rotate: false
+  xy: 339, 524
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 0
+Boss1Anim
+  rotate: false
+  xy: 597, 782
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 1
+BowserMuskNoCar
+  rotate: false
+  xy: 2, 766
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 0
+BowserMuskNoCar
+  rotate: false
+  xy: 2, 508
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 1
+Bronze
+  rotate: false
+  xy: 652, 800
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+BronzeAnim
+  rotate: false
+  xy: 707, 800
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 0
+BronzeAnim
+  rotate: false
+  xy: 762, 800
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 1
+CarBase1
+  rotate: false
+  xy: 817, 800
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+CarBase2
+  rotate: false
+  xy: 872, 800
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+CarBase3
+  rotate: false
+  xy: 927, 800
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+CoilAnim
+  rotate: false
+  xy: 57, 164
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 0
+CoilAnim
+  rotate: false
+  xy: 57, 52
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 1
+CoilAnim
+  rotate: false
+  xy: 112, 164
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 2
+DamageLarge
+  rotate: false
+  xy: 112, 52
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+DamageSmall
+  rotate: false
+  xy: 469, 654
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+Enemy1Anim
+  rotate: false
+  xy: 241, 396
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 0
+Enemy1Anim
+  rotate: false
+  xy: 524, 692
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 1
+Enemy2Anim
+  rotate: false
+  xy: 394, 564
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 0
+Enemy2Anim
+  rotate: false
+  xy: 942, 688
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 1
+Enemy3Anim
+  rotate: false
+  xy: 296, 412
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 0
+Enemy3Anim
+  rotate: false
+  xy: 351, 412
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 1
+Enemy4Anim
+  rotate: false
+  xy: 364, 300
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 0
+Enemy4Anim
+  rotate: false
+  xy: 406, 452
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 1
+Enemy5Anim
+  rotate: false
+  xy: 461, 456
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 0
+Enemy5Anim
+  rotate: false
+  xy: 419, 340
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 1
+Explosion1Anim
+  rotate: false
+  xy: 474, 344
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 0
+Explosion1Anim
+  rotate: false
+  xy: 419, 228
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 1
+Explosion1Anim
+  rotate: false
+  xy: 474, 232
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 2
+Explosion2Anim
+  rotate: false
+  xy: 167, 116
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 0
+Explosion2Anim
+  rotate: false
+  xy: 167, 4
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 1
+Explosion2Anim
+  rotate: false
+  xy: 222, 116
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 2
+Explosion3Anim
+  rotate: false
+  xy: 222, 4
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 0
+Explosion3Anim
+  rotate: false
+  xy: 277, 116
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 1
+Explosion4Anim
+  rotate: false
+  xy: 277, 4
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 0
+Explosion4Anim
+  rotate: false
+  xy: 332, 116
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 1
+Explosion4Anim
+  rotate: false
+  xy: 332, 4
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 2
+Falcon
+  rotate: false
+  xy: 387, 116
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 0
+Falcon
+  rotate: false
+  xy: 387, 4
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 1
+Gold
+  rotate: false
+  xy: 442, 116
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+GoldAnim
+  rotate: false
+  xy: 442, 4
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 0
+GoldAnim
+  rotate: false
+  xy: 497, 120
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 1
+LargeBattery
+  rotate: false
+  xy: 497, 8
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+MediumBattery
+  rotate: false
+  xy: 524, 580
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+MediumEngineAnim
+  rotate: false
+  xy: 579, 584
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 0
+MediumEngineAnim
+  rotate: false
+  xy: 516, 468
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 1
+MegaEngine
+  rotate: false
+  xy: 529, 356
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+MegaEngineoff
+  rotate: false
+  xy: 529, 356
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+MegaEngineAnim
+  rotate: false
+  xy: 529, 244
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 0
+MegaEngineAnim
+  rotate: false
+  xy: 571, 468
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 1
+ProjectileBasicGunLeft
+  rotate: false
+  xy: 584, 356
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+ProjectileBasicGunRight
+  rotate: false
+  xy: 584, 244
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+Rocket-Projectile1
+  rotate: false
+  xy: 552, 132
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+Rocket-Projectile2
+  rotate: false
+  xy: 552, 20
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+RocketLauncher
+  rotate: false
+  xy: 607, 132
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+RocketSmoke1
+  rotate: false
+  xy: 607, 20
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+RocketSmoke2
+  rotate: false
+  xy: 634, 584
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+Silver
+  rotate: false
+  xy: 626, 472
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+SilverAnim
+  rotate: false
+  xy: 689, 596
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 0
+SilverAnim
+  rotate: false
+  xy: 744, 596
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 1
+SmallEngineAnim
+  rotate: false
+  xy: 639, 360
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 0
+SmallEngineAnim
+  rotate: false
+  xy: 639, 248
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 1
+TireAxesAnim
+  rotate: false
+  xy: 662, 136
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 0
+TireAxesAnim
+  rotate: false
+  xy: 662, 24
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 1
+Truck1
+  rotate: false
+  xy: 36, 331
+  size: 73, 175
+  orig: 73, 175
+  offset: 0, 0
+  index: -1
+Truck2
+  rotate: false
+  xy: 111, 331
+  size: 73, 175
+  orig: 73, 175
+  offset: 0, 0
+  index: -1
+Zappa
+  rotate: false
+  xy: 681, 472
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+ZappaAnim
+  rotate: false
+  xy: 736, 484
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 0
+ZappaAnim
+  rotate: false
+  xy: 694, 360
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: 1
+ZappaProjectile1
+  rotate: false
+  xy: 260, 510
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ZappaProjectile2
+  rotate: false
+  xy: 978, 925
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+badlogic
+  rotate: false
+  xy: 260, 766
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+barricade
+  rotate: false
+  xy: 579, 786
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+barricade2
+  rotate: false
+  xy: 552, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+basicProjectile
+  rotate: false
+  xy: 857, 462
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+batteryPickup
+  rotate: false
+  xy: 148, 293
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+boycar
+  rotate: false
+  xy: 36, 276
+  size: 110, 53
+  orig: 110, 53
+  offset: 0, 0
+  index: 0
+boycar
+  rotate: false
+  xy: 186, 341
+  size: 110, 53
+  orig: 110, 53
+  offset: 0, 0
+  index: 1
+cactusA
+  rotate: false
+  xy: 717, 184
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+cactusC
+  rotate: false
+  xy: 978, 959
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+cactusD
+  rotate: false
+  xy: 717, 120
+  size: 33, 62
+  orig: 33, 62
+  offset: 0, 0
+  index: -1
+cactusE
+  rotate: false
+  xy: 717, 56
+  size: 33, 62
+  orig: 33, 62
+  offset: 0, 0
+  index: -1
+cactusF
+  rotate: false
+  xy: 923, 511
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+cactusG
+  rotate: false
+  xy: 125, 26
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+car-base
+  rotate: false
+  xy: 694, 248
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+car-talk
+  rotate: false
+  xy: 645, 708
+  size: 76, 35
+  orig: 76, 35
+  offset: 0, 0
+  index: 0
+car-talk
+  rotate: false
+  xy: 723, 708
+  size: 76, 35
+  orig: 76, 35
+  offset: 0, 0
+  index: 1
+cone
+  rotate: false
+  xy: 570, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+girlcar
+  rotate: false
+  xy: 652, 745
+  size: 110, 53
+  orig: 110, 53
+  offset: 0, 0
+  index: 0
+girlcar
+  rotate: false
+  xy: 764, 745
+  size: 110, 53
+  orig: 110, 53
+  offset: 0, 0
+  index: 1
+health
+  rotate: false
+  xy: 260, 636
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+lightning
+  rotate: false
+  xy: 518, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+manholecover
+  rotate: false
+  xy: 588, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+moneyPickup
+  rotate: false
+  xy: 606, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ninepatch
+  rotate: false
+  xy: 717, 22
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+palmtree
+  rotate: false
+  xy: 390, 676
+  size: 77, 88
+  orig: 77, 88
+  offset: 0, 0
+  index: -1
+palmtree2
+  rotate: false
+  xy: 260, 544
+  size: 77, 90
+  orig: 77, 90
+  offset: 0, 0
+  index: -1
+palmtree3
+  rotate: false
+  xy: 518, 804
+  size: 77, 88
+  orig: 77, 88
+  offset: 0, 0
+  index: -1
+progress
+  rotate: false
+  xy: 2, 250
+  size: 32, 256
+  orig: 32, 256
+  offset: 0, 0
+  index: -1
+repairPickup
+  rotate: false
+  xy: 624, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+rocket
+  rotate: false
+  xy: 891, 462
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+speech
+  rotate: false
+  xy: 57, 18
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+treeA
+  rotate: false
+  xy: 579, 696
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+treeC
+  rotate: false
+  xy: 449, 568
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+treeD
+  rotate: false
+  xy: 876, 714
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+treeE
+  rotate: false
+  xy: 298, 326
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+treeF
+  rotate: false
+  xy: 801, 659
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+treeG
+  rotate: false
+  xy: 867, 628
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+treeH
+  rotate: false
+  xy: 933, 602
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+upgrade-icon-battery
+  rotate: false
+  xy: 799, 593
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+upgrade-icon-booster
+  rotate: false
+  xy: 791, 527
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+upgrade-icon-hull
+  rotate: false
+  xy: 791, 461
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+upgrade-icon-motor
+  rotate: false
+  xy: 865, 562
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+upgrade-icon-tire
+  rotate: false
+  xy: 857, 496
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+upgrade-icon-topspeed
+  rotate: false
+  xy: 931, 536
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+upgrade-icon-weapon
+  rotate: false
+  xy: 91, 18
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+weaponPickup
+  rotate: false
+  xy: 642, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+white-pixel
+  rotate: false
+  xy: 791, 593
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

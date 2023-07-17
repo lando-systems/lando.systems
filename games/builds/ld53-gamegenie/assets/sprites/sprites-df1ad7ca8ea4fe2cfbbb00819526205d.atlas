@@ -1,0 +1,4192 @@
+
+sprites.png
+size: 4096, 4096
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+creatures/chromo-boss/boss-attack-punch
+  rotate: false
+  xy: 2797, 1332
+  size: 60, 105
+  orig: 60, 105
+  offset: 0, 0
+  index: 0
+creatures/chromo-boss/boss-attack-punch
+  rotate: false
+  xy: 3459, 1546
+  size: 60, 105
+  orig: 60, 105
+  offset: 0, 0
+  index: 1
+creatures/chromo-boss/boss-attack-punch
+  rotate: false
+  xy: 4003, 3748
+  size: 60, 105
+  orig: 60, 105
+  offset: 0, 0
+  index: 2
+creatures/chromo-boss/boss-idle-a
+  rotate: false
+  xy: 4003, 3641
+  size: 60, 105
+  orig: 60, 105
+  offset: 0, 0
+  index: 0
+creatures/chromo-boss/boss-idle-a
+  rotate: false
+  xy: 4003, 3534
+  size: 60, 105
+  orig: 60, 105
+  offset: 0, 0
+  index: 1
+creatures/chromo-boss/boss-idle-a
+  rotate: false
+  xy: 4003, 3427
+  size: 60, 105
+  orig: 60, 105
+  offset: 0, 0
+  index: 2
+creatures/chromo-boss/boss-idle-a
+  rotate: false
+  xy: 4003, 3320
+  size: 60, 105
+  orig: 60, 105
+  offset: 0, 0
+  index: 3
+creatures/et/et-float
+  rotate: false
+  xy: 3303, 544
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: 0
+creatures/et/et-float
+  rotate: false
+  xy: 3293, 388
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: 1
+creatures/et/et-float
+  rotate: false
+  xy: 3521, 1628
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: 2
+creatures/et/et-float
+  rotate: false
+  xy: 3269, 82
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: 3
+creatures/et/et-walk
+  rotate: false
+  xy: 4065, 3841
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+creatures/et/et-walk
+  rotate: false
+  xy: 4065, 3823
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+creatures/et/et-walk
+  rotate: false
+  xy: 4065, 3805
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+creatures/gobbler/gobbler-idle
+  rotate: false
+  xy: 3395, 37
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+creatures/gobbler/gobbler-idle
+  rotate: false
+  xy: 3977, 1441
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+creatures/gobbler/gobbler-idle
+  rotate: false
+  xy: 3977, 1359
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+creatures/gobbler/gobbler-idle
+  rotate: false
+  xy: 3495, 742
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+creatures/reapo-man/reapo-idle-a
+  rotate: false
+  xy: 3261, 1049
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+creatures/reapo-man/reapo-idle-a
+  rotate: false
+  xy: 3327, 1049
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+creatures/reapo-man/reapo-idle-a
+  rotate: false
+  xy: 3393, 1049
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+creatures/reapo-man/reapo-idle-a
+  rotate: false
+  xy: 3405, 573
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+creatures/reapo-man/reapo-idle-a
+  rotate: false
+  xy: 3471, 573
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 4
+creatures/reapo-man/reapo-idle-a
+  rotate: false
+  xy: 3537, 573
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 5
+creatures/reapo-man/reapo-idle-a
+  rotate: false
+  xy: 3477, 15
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 6
+creatures/thief/thief
+  rotate: false
+  xy: 171, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+creatures/thief/thief
+  rotate: false
+  xy: 4063, 3859
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+creatures/thief/thief
+  rotate: false
+  xy: 205, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+creatures/turtle/turtle
+  rotate: false
+  xy: 239, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+creatures/turtle/turtle
+  rotate: false
+  xy: 273, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+creatures/turtle/turtle
+  rotate: false
+  xy: 307, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+creatures/turtle/turtle
+  rotate: false
+  xy: 341, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+icons/input-prompts
+  rotate: false
+  xy: 3009, 1905
+  size: 544, 384
+  orig: 544, 384
+  offset: 0, 0
+  index: -1
+icons/lock
+  rotate: false
+  xy: 3153, 1856
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote__
+  rotate: false
+  xy: 3465, 1403
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_alert
+  rotate: false
+  xy: 3957, 1095
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_anger
+  rotate: false
+  xy: 456, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_bars
+  rotate: false
+  xy: 3957, 1369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_cash
+  rotate: false
+  xy: 4039, 2646
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_circle
+  rotate: false
+  xy: 3521, 1574
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_cloud
+  rotate: false
+  xy: 2386, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_cross
+  rotate: false
+  xy: 4059, 2105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_dots1
+  rotate: false
+  xy: 4059, 2069
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_dots2
+  rotate: false
+  xy: 4059, 2033
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_dots3
+  rotate: false
+  xy: 4059, 1997
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_drop
+  rotate: false
+  xy: 2566, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_drops
+  rotate: false
+  xy: 744, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_exclamation
+  rotate: false
+  xy: 816, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_exclamations
+  rotate: false
+  xy: 888, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_faceAngry
+  rotate: false
+  xy: 960, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_faceHappy
+  rotate: false
+  xy: 1032, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_faceSad
+  rotate: false
+  xy: 1104, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_heart
+  rotate: false
+  xy: 1230, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_heartBroken
+  rotate: false
+  xy: 1374, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_hearts
+  rotate: false
+  xy: 1518, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_idea
+  rotate: false
+  xy: 1662, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_laugh
+  rotate: false
+  xy: 1806, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_music
+  rotate: false
+  xy: 1950, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_question
+  rotate: false
+  xy: 2094, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_sleep
+  rotate: false
+  xy: 4053, 2592
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_sleeps
+  rotate: false
+  xy: 4053, 2448
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_star
+  rotate: false
+  xy: 3789, 224
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_stars
+  rotate: false
+  xy: 4077, 2177
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_swirl
+  rotate: false
+  xy: 4077, 2033
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote__
+  rotate: false
+  xy: 3023, 41
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_alert
+  rotate: false
+  xy: 3957, 1077
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_anger
+  rotate: false
+  xy: 3023, 967
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_bars
+  rotate: false
+  xy: 3513, 724
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_cash
+  rotate: false
+  xy: 3059, 41
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_circle
+  rotate: false
+  xy: 3269, 28
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_cloud
+  rotate: false
+  xy: 510, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_cross
+  rotate: false
+  xy: 2422, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_dots1
+  rotate: false
+  xy: 2458, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_dots2
+  rotate: false
+  xy: 2494, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_dots3
+  rotate: false
+  xy: 2530, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_drop
+  rotate: false
+  xy: 690, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_drops
+  rotate: false
+  xy: 2638, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_exclamation
+  rotate: false
+  xy: 2710, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_exclamations
+  rotate: false
+  xy: 2782, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_faceAngry
+  rotate: false
+  xy: 2854, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_faceHappy
+  rotate: false
+  xy: 2926, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_faceSad
+  rotate: false
+  xy: 2998, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_heart
+  rotate: false
+  xy: 1248, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_heartBroken
+  rotate: false
+  xy: 1392, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_hearts
+  rotate: false
+  xy: 1536, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_idea
+  rotate: false
+  xy: 1680, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_laugh
+  rotate: false
+  xy: 1824, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_music
+  rotate: false
+  xy: 1968, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_question
+  rotate: false
+  xy: 2112, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_sleep
+  rotate: false
+  xy: 4053, 2574
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_sleeps
+  rotate: false
+  xy: 4053, 2430
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_star
+  rotate: false
+  xy: 3789, 206
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_stars
+  rotate: false
+  xy: 4077, 2159
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_swirl
+  rotate: false
+  xy: 4077, 2015
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote__
+  rotate: false
+  xy: 4039, 1915
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_alert
+  rotate: false
+  xy: 4039, 1341
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_anger
+  rotate: false
+  xy: 3293, 370
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_bars
+  rotate: false
+  xy: 4039, 1323
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_cash
+  rotate: false
+  xy: 4039, 1879
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_circle
+  rotate: false
+  xy: 4057, 2646
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_cloud
+  rotate: false
+  xy: 3521, 1556
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_cross
+  rotate: false
+  xy: 546, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_dots1
+  rotate: false
+  xy: 582, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_dots2
+  rotate: false
+  xy: 618, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_dots3
+  rotate: false
+  xy: 654, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_drop
+  rotate: false
+  xy: 4059, 1943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_drops
+  rotate: false
+  xy: 762, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_exclamation
+  rotate: false
+  xy: 834, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_exclamations
+  rotate: false
+  xy: 906, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_faceAngry
+  rotate: false
+  xy: 978, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_faceHappy
+  rotate: false
+  xy: 1050, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_faceSad
+  rotate: false
+  xy: 1122, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_heart
+  rotate: false
+  xy: 1266, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_heartBroken
+  rotate: false
+  xy: 1410, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_hearts
+  rotate: false
+  xy: 1554, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_idea
+  rotate: false
+  xy: 1698, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_laugh
+  rotate: false
+  xy: 1842, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_music
+  rotate: false
+  xy: 1986, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_question
+  rotate: false
+  xy: 2130, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_sleep
+  rotate: false
+  xy: 4053, 2556
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_sleeps
+  rotate: false
+  xy: 4053, 2412
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_star
+  rotate: false
+  xy: 3789, 188
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_stars
+  rotate: false
+  xy: 4077, 2141
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_swirl
+  rotate: false
+  xy: 4077, 1997
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote__
+  rotate: false
+  xy: 3953, 1505
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_alert
+  rotate: false
+  xy: 4034, 765
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_anger
+  rotate: false
+  xy: 3521, 1610
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_bars
+  rotate: false
+  xy: 4059, 2177
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_cash
+  rotate: false
+  xy: 3531, 724
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_circle
+  rotate: false
+  xy: 3077, 41
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_cloud
+  rotate: false
+  xy: 4039, 1269
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_cross
+  rotate: false
+  xy: 4039, 1233
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_dots1
+  rotate: false
+  xy: 4039, 1197
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_dots2
+  rotate: false
+  xy: 4039, 1161
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_dots3
+  rotate: false
+  xy: 4039, 1125
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_drop
+  rotate: false
+  xy: 2584, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_drops
+  rotate: false
+  xy: 2656, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_exclamation
+  rotate: false
+  xy: 2728, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_exclamations
+  rotate: false
+  xy: 2800, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_faceAngry
+  rotate: false
+  xy: 2872, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_faceHappy
+  rotate: false
+  xy: 2944, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_faceSad
+  rotate: false
+  xy: 1140, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_heart
+  rotate: false
+  xy: 1284, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_heartBroken
+  rotate: false
+  xy: 1428, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_hearts
+  rotate: false
+  xy: 1572, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_idea
+  rotate: false
+  xy: 1716, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_laugh
+  rotate: false
+  xy: 1860, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_music
+  rotate: false
+  xy: 2004, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_question
+  rotate: false
+  xy: 2148, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_sleep
+  rotate: false
+  xy: 4053, 2538
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_sleeps
+  rotate: false
+  xy: 3789, 314
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_star
+  rotate: false
+  xy: 3789, 170
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_stars
+  rotate: false
+  xy: 4077, 2123
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_swirl
+  rotate: false
+  xy: 4077, 1979
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote__
+  rotate: false
+  xy: 3953, 1487
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_alert
+  rotate: false
+  xy: 3798, 428
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_anger
+  rotate: false
+  xy: 3269, 64
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_bars
+  rotate: false
+  xy: 2350, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_cash
+  rotate: false
+  xy: 4039, 1305
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_circle
+  rotate: false
+  xy: 4039, 1861
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_cloud
+  rotate: false
+  xy: 4059, 2123
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_cross
+  rotate: false
+  xy: 4059, 2087
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_dots1
+  rotate: false
+  xy: 4059, 2051
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_dots2
+  rotate: false
+  xy: 4059, 2015
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_dots3
+  rotate: false
+  xy: 4059, 1979
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_drop
+  rotate: false
+  xy: 708, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_drops
+  rotate: false
+  xy: 780, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_exclamation
+  rotate: false
+  xy: 852, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_exclamations
+  rotate: false
+  xy: 924, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_faceAngry
+  rotate: false
+  xy: 996, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_faceHappy
+  rotate: false
+  xy: 1068, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_faceSad
+  rotate: false
+  xy: 1158, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_heart
+  rotate: false
+  xy: 1302, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_heartBroken
+  rotate: false
+  xy: 1446, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_hearts
+  rotate: false
+  xy: 1590, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_idea
+  rotate: false
+  xy: 1734, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_laugh
+  rotate: false
+  xy: 1878, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_music
+  rotate: false
+  xy: 2022, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_question
+  rotate: false
+  xy: 2166, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_sleep
+  rotate: false
+  xy: 4053, 2520
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_sleeps
+  rotate: false
+  xy: 3789, 296
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_star
+  rotate: false
+  xy: 3789, 152
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_stars
+  rotate: false
+  xy: 4077, 2105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_swirl
+  rotate: false
+  xy: 4077, 1961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote__
+  rotate: false
+  xy: 3957, 1387
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_alert
+  rotate: false
+  xy: 4059, 2195
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_anger
+  rotate: false
+  xy: 4021, 2646
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_bars
+  rotate: false
+  xy: 474, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_cash
+  rotate: false
+  xy: 4059, 2159
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_circle
+  rotate: false
+  xy: 3549, 724
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_cloud
+  rotate: false
+  xy: 2404, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_cross
+  rotate: false
+  xy: 2440, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_dots1
+  rotate: false
+  xy: 2476, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_dots2
+  rotate: false
+  xy: 2512, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_dots3
+  rotate: false
+  xy: 2548, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_drop
+  rotate: false
+  xy: 2602, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_drops
+  rotate: false
+  xy: 2674, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_exclamation
+  rotate: false
+  xy: 2746, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_exclamations
+  rotate: false
+  xy: 2818, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_faceAngry
+  rotate: false
+  xy: 2890, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_faceHappy
+  rotate: false
+  xy: 2962, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_faceSad
+  rotate: false
+  xy: 1176, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_heart
+  rotate: false
+  xy: 1320, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_heartBroken
+  rotate: false
+  xy: 1464, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_hearts
+  rotate: false
+  xy: 1608, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_idea
+  rotate: false
+  xy: 1752, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_laugh
+  rotate: false
+  xy: 1896, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_music
+  rotate: false
+  xy: 2040, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_question
+  rotate: false
+  xy: 2184, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_sleep
+  rotate: false
+  xy: 4053, 2502
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_sleeps
+  rotate: false
+  xy: 3789, 278
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_star
+  rotate: false
+  xy: 3789, 134
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_stars
+  rotate: false
+  xy: 4077, 2087
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_swirl
+  rotate: false
+  xy: 4077, 1943
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote__
+  rotate: false
+  xy: 3495, 724
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_alert
+  rotate: false
+  xy: 4073, 567
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_anger
+  rotate: false
+  xy: 3041, 41
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_bars
+  rotate: false
+  xy: 3521, 1592
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_cash
+  rotate: false
+  xy: 2368, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_circle
+  rotate: false
+  xy: 4039, 1287
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_cloud
+  rotate: false
+  xy: 528, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_cross
+  rotate: false
+  xy: 564, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_dots1
+  rotate: false
+  xy: 600, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_dots2
+  rotate: false
+  xy: 636, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_dots3
+  rotate: false
+  xy: 672, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_drop
+  rotate: false
+  xy: 726, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_drops
+  rotate: false
+  xy: 798, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_exclamation
+  rotate: false
+  xy: 870, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_exclamations
+  rotate: false
+  xy: 942, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_faceAngry
+  rotate: false
+  xy: 1014, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_faceHappy
+  rotate: false
+  xy: 1086, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_faceSad
+  rotate: false
+  xy: 1194, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_heart
+  rotate: false
+  xy: 1338, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_heartBroken
+  rotate: false
+  xy: 1482, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_hearts
+  rotate: false
+  xy: 1626, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_idea
+  rotate: false
+  xy: 1770, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_laugh
+  rotate: false
+  xy: 1914, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_music
+  rotate: false
+  xy: 2058, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_question
+  rotate: false
+  xy: 4053, 2628
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_sleep
+  rotate: false
+  xy: 4053, 2484
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_sleeps
+  rotate: false
+  xy: 3789, 260
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_star
+  rotate: false
+  xy: 4039, 541
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_stars
+  rotate: false
+  xy: 4077, 2069
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_swirl
+  rotate: false
+  xy: 3041, 967
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote__
+  rotate: false
+  xy: 3569, 642
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_alert
+  rotate: false
+  xy: 2332, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_anger
+  rotate: false
+  xy: 4039, 1897
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_bars
+  rotate: false
+  xy: 3269, 46
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_cash
+  rotate: false
+  xy: 492, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_circle
+  rotate: false
+  xy: 4059, 2141
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_cloud
+  rotate: false
+  xy: 4039, 1251
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_cross
+  rotate: false
+  xy: 4039, 1215
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_dots1
+  rotate: false
+  xy: 4039, 1179
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_dots2
+  rotate: false
+  xy: 4039, 1143
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_dots3
+  rotate: false
+  xy: 4059, 1961
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_drop
+  rotate: false
+  xy: 2620, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_drops
+  rotate: false
+  xy: 2692, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_exclamation
+  rotate: false
+  xy: 2764, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_exclamations
+  rotate: false
+  xy: 2836, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_faceAngry
+  rotate: false
+  xy: 2908, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_faceHappy
+  rotate: false
+  xy: 2980, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_faceSad
+  rotate: false
+  xy: 1212, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_heart
+  rotate: false
+  xy: 1356, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_heartBroken
+  rotate: false
+  xy: 1500, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_hearts
+  rotate: false
+  xy: 1644, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_idea
+  rotate: false
+  xy: 1788, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_laugh
+  rotate: false
+  xy: 1932, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_music
+  rotate: false
+  xy: 2076, 17
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_question
+  rotate: false
+  xy: 4053, 2610
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_sleep
+  rotate: false
+  xy: 4053, 2466
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_sleeps
+  rotate: false
+  xy: 3789, 242
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_star
+  rotate: false
+  xy: 4077, 2195
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_stars
+  rotate: false
+  xy: 4077, 2051
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_swirl
+  rotate: false
+  xy: 4057, 541
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ninepatch/debug
+  rotate: false
+  xy: 4063, 4063
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ninepatch/glass
+  rotate: false
+  xy: 3811, 2301
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-active
+  rotate: false
+  xy: 3191, 311
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-blue
+  rotate: false
+  xy: 3303, 569
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-corner-bl
+  rotate: false
+  xy: 3913, 2301
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-corner-br
+  rotate: false
+  xy: 3191, 209
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-corner-tl
+  rotate: false
+  xy: 3281, 1421
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-corner-tr
+  rotate: false
+  xy: 3261, 1319
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-corners
+  rotate: false
+  xy: 3261, 1217
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-dark
+  rotate: false
+  xy: 3261, 1115
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-dim
+  rotate: false
+  xy: 3383, 1421
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-dim-down
+  rotate: false
+  xy: 3363, 1319
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-dim-left
+  rotate: false
+  xy: 3363, 1217
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-dim-point
+  rotate: false
+  xy: 3363, 1115
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-dim-right
+  rotate: false
+  xy: 3321, 467
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-dim-up
+  rotate: false
+  xy: 3191, 107
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-green
+  rotate: false
+  xy: 3321, 365
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-red
+  rotate: false
+  xy: 3293, 263
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-red-2
+  rotate: false
+  xy: 3293, 161
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-red-3
+  rotate: false
+  xy: 3293, 59
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-tab
+  rotate: false
+  xy: 3303, 671
+  size: 100, 112
+  orig: 100, 112
+  offset: 0, 0
+  index: -1
+ninepatch/glass-thick
+  rotate: false
+  xy: 2207, 39
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-yellow
+  rotate: false
+  xy: 2309, 39
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/metal
+  rotate: false
+  xy: 2411, 39
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/metal-blue
+  rotate: false
+  xy: 2513, 39
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/metal-blue-corner
+  rotate: false
+  xy: 2615, 39
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/metal-green
+  rotate: false
+  xy: 2717, 39
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/metal-green-corner
+  rotate: false
+  xy: 2819, 39
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/metal-plate
+  rotate: false
+  xy: 3587, 491
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+ninepatch/metal-red
+  rotate: false
+  xy: 2921, 39
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/metal-red-corner
+  rotate: false
+  xy: 3957, 2137
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/metal-yellow
+  rotate: false
+  xy: 3957, 2035
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/metal-yellow-corner
+  rotate: false
+  xy: 3957, 1933
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/panel
+  rotate: false
+  xy: 3485, 1480
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ninepatch/plain
+  rotate: false
+  xy: 3199, 1523
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ninepatch/plain-dim
+  rotate: false
+  xy: 3061, 413
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ninepatch/plain-gradient
+  rotate: false
+  xy: 3329, 1523
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ninepatch/plain-gradient-highlight-green
+  rotate: false
+  xy: 3061, 283
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ninepatch/plain-gradient-highlight-red
+  rotate: false
+  xy: 3061, 153
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ninepatch/plain-gradient-highlight-yellow
+  rotate: false
+  xy: 3191, 413
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ninepatch/shear
+  rotate: false
+  xy: 3761, 3855
+  size: 300, 240
+  orig: 300, 240
+  offset: 0, 0
+  index: -1
+objects/ability-icons/ability-icon
+  rotate: false
+  xy: 3009, 1857
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 0
+objects/ability-icons/ability-icon
+  rotate: false
+  xy: 3761, 2597
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 1
+objects/ability-icons/ability-icon
+  rotate: false
+  xy: 2797, 1284
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 2
+objects/ability-icons/ability-icon
+  rotate: false
+  xy: 2207, 289
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 3
+objects/bomb/bomb
+  rotate: false
+  xy: 3723, 86
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 0
+objects/bomb/bomb
+  rotate: false
+  xy: 3057, 1857
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 1
+objects/bomb/bomb
+  rotate: false
+  xy: 2207, 241
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 2
+objects/bomb/bomb
+  rotate: false
+  xy: 3105, 1857
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 3
+objects/bomb/bomb
+  rotate: false
+  xy: 2207, 193
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 4
+objects/bomb/bomb
+  rotate: false
+  xy: 2207, 145
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 5
+objects/bomb/bomb
+  rotate: false
+  xy: 3771, 86
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 6
+objects/bomb/bomb
+  rotate: false
+  xy: 3957, 2253
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 7
+objects/bomb/bomb
+  rotate: false
+  xy: 3817, 537
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 8
+objects/bomb/bomb
+  rotate: false
+  xy: 3865, 537
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 9
+objects/bomb/bomb
+  rotate: false
+  xy: 3817, 489
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 10
+objects/cargo-cyan/cargo-cyan
+  rotate: false
+  xy: 3423, 367
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 0
+objects/packet/packet-cube
+  rotate: false
+  xy: 3423, 367
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 0
+objects/cargo-cyan/cargo-cyan
+  rotate: false
+  xy: 3913, 543
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 1
+objects/packet/packet-cube
+  rotate: false
+  xy: 3913, 543
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 1
+objects/cargo-cyan/cargo-cyan
+  rotate: false
+  xy: 3865, 495
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 2
+objects/packet/packet-cube
+  rotate: false
+  xy: 3865, 495
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 2
+objects/cargo-cyan/cargo-cyan
+  rotate: false
+  xy: 3817, 447
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 3
+objects/packet/packet-cube
+  rotate: false
+  xy: 3817, 447
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 3
+objects/cargo-cyan/cargo-cyan
+  rotate: false
+  xy: 3955, 543
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 4
+objects/packet/packet-cube
+  rotate: false
+  xy: 3955, 543
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 4
+objects/cargo-cyan/cargo-cyan
+  rotate: false
+  xy: 3997, 543
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 5
+objects/packet/packet-cube
+  rotate: false
+  xy: 3997, 543
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 5
+objects/cargo-green/cargo-green
+  rotate: false
+  xy: 4015, 2321
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+objects/cargo-green/cargo-green
+  rotate: false
+  xy: 4015, 2239
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+objects/cargo-green/cargo-green
+  rotate: false
+  xy: 2859, 955
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+objects/cargo-green/cargo-green
+  rotate: false
+  xy: 3199, 1441
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+objects/cargo-green/cargo-green
+  rotate: false
+  xy: 2941, 955
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 4
+objects/cargo-green/cargo-green
+  rotate: false
+  xy: 4003, 3238
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 5
+objects/cargo-red/cargo-red
+  rotate: false
+  xy: 4003, 3156
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+objects/cargo-red/cargo-red
+  rotate: false
+  xy: 4003, 3074
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+objects/cargo-red/cargo-red
+  rotate: false
+  xy: 4003, 2992
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+objects/cargo-red/cargo-red
+  rotate: false
+  xy: 4003, 2910
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+objects/cargo-red/cargo-red
+  rotate: false
+  xy: 4003, 2828
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 4
+objects/cargo-red/cargo-red
+  rotate: false
+  xy: 4003, 2746
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 5
+objects/cargo-yellow/cargo-yellow
+  rotate: false
+  xy: 4003, 2664
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+objects/cargo-yellow/cargo-yellow
+  rotate: false
+  xy: 3957, 1851
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+objects/cargo-yellow/cargo-yellow
+  rotate: false
+  xy: 3953, 1769
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+objects/cargo-yellow/cargo-yellow
+  rotate: false
+  xy: 3953, 1687
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+objects/cargo-yellow/cargo-yellow
+  rotate: false
+  xy: 3953, 1605
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 4
+objects/cargo-yellow/cargo-yellow
+  rotate: false
+  xy: 3953, 1523
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 5
+objects/goal-base/goal-base
+  rotate: false
+  xy: 3485, 1398
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+objects/goal-base/goal-base
+  rotate: false
+  xy: 3567, 1405
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+objects/goal-base/goal-base
+  rotate: false
+  xy: 3649, 1405
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+objects/goal-base/goal-base
+  rotate: false
+  xy: 3731, 1405
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+objects/goal-cyan/goal-cyan
+  rotate: false
+  xy: 3813, 1405
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+objects/goal-panel-cyan/goal-panel-cyan
+  rotate: false
+  xy: 3465, 1316
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+objects/goal-panel-cyan/goal-panel-cyan
+  rotate: false
+  xy: 3465, 1316
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+objects/goal-panel-cyan/goal-panel-cyan
+  rotate: false
+  xy: 3465, 1316
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+objects/goal-panel-cyan/goal-panel-cyan
+  rotate: false
+  xy: 3465, 1316
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+objects/goal-panel-green/goal-panel-green
+  rotate: false
+  xy: 3465, 1234
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+objects/goal-panel-green/goal-panel-green
+  rotate: false
+  xy: 3465, 1234
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+objects/goal-panel-green/goal-panel-green
+  rotate: false
+  xy: 3465, 1234
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+objects/goal-panel-green/goal-panel-green
+  rotate: false
+  xy: 3465, 1234
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+objects/goal-panel-red/goal-panel-red
+  rotate: false
+  xy: 3465, 1152
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+objects/goal-panel-red/goal-panel-red
+  rotate: false
+  xy: 3465, 1152
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+objects/goal-panel-red/goal-panel-red
+  rotate: false
+  xy: 3465, 1152
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+objects/goal-panel-red/goal-panel-red
+  rotate: false
+  xy: 3465, 1152
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+objects/goal-panel-yellow/goal-panel-yellow
+  rotate: false
+  xy: 3895, 1405
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+objects/goal-panel-yellow/goal-panel-yellow
+  rotate: false
+  xy: 3895, 1405
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+objects/goal-panel-yellow/goal-panel-yellow
+  rotate: false
+  xy: 3895, 1405
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+objects/goal-panel-yellow/goal-panel-yellow
+  rotate: false
+  xy: 3895, 1405
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+objects/goal-red/goal-red
+  rotate: false
+  xy: 3023, 59
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+objects/goal-red/goal-red
+  rotate: false
+  xy: 3105, 71
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+objects/goal-red/goal-red
+  rotate: false
+  xy: 3105, 71
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 9
+objects/goal-red/goal-red
+  rotate: false
+  xy: 3465, 1070
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+objects/goal-red/goal-red
+  rotate: false
+  xy: 3465, 1070
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 8
+objects/goal-red/goal-red
+  rotate: false
+  xy: 3413, 967
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+objects/goal-red/goal-red
+  rotate: false
+  xy: 3413, 885
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 4
+objects/goal-red/goal-red
+  rotate: false
+  xy: 3413, 885
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 6
+objects/goal-red/goal-red
+  rotate: false
+  xy: 3413, 803
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 5
+objects/goal-red/goal-red
+  rotate: false
+  xy: 3187, 25
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 7
+objects/goal-shimmer/goal-shimmer
+  rotate: false
+  xy: 3495, 988
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+objects/goal-shimmer/goal-shimmer
+  rotate: false
+  xy: 3495, 906
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+objects/goal-shimmer/goal-shimmer
+  rotate: false
+  xy: 3495, 824
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+objects/goal-shimmer/goal-shimmer
+  rotate: false
+  xy: 3395, 283
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+objects/goal-shimmer/goal-shimmer
+  rotate: false
+  xy: 3395, 201
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 4
+objects/goal-shimmer/goal-shimmer
+  rotate: false
+  xy: 3395, 119
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 5
+objects/peg/spinner
+  rotate: false
+  xy: 3741, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+objects/peg/spinner
+  rotate: false
+  xy: 3987, 1047
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+objects/peg/spinner
+  rotate: false
+  xy: 3987, 981
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+objects/peg/spinner
+  rotate: false
+  xy: 3987, 915
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+objects/peg/spinner
+  rotate: false
+  xy: 3987, 849
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 4
+objects/peg/spinner
+  rotate: false
+  xy: 3987, 783
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 5
+objects/peg/spinner
+  rotate: false
+  xy: 3751, 512
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 6
+objects/peg/spinner
+  rotate: false
+  xy: 3751, 446
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 7
+objects/peg/spinner-cap
+  rotate: false
+  xy: 3723, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+objects/shield/shield
+  rotate: false
+  xy: 3609, 15
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+objects/shield/shield
+  rotate: false
+  xy: 3675, 15
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+objects/shield/shield
+  rotate: false
+  xy: 3723, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+particles/circle
+  rotate: false
+  xy: 3459, 1528
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+particles/dollars
+  rotate: false
+  xy: 3261, 1421
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+particles/font-points-0
+  rotate: false
+  xy: 3061, 141
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: 0
+particles/font-points-1
+  rotate: false
+  xy: 3261, 1037
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: 0
+particles/font-points-2
+  rotate: false
+  xy: 4039, 1113
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: 0
+particles/font-points-3
+  rotate: false
+  xy: 3070, 141
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: 0
+particles/font-points-4
+  rotate: false
+  xy: 3270, 1037
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: 0
+particles/font-points-5
+  rotate: false
+  xy: 3079, 141
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: 0
+particles/font-points-6
+  rotate: false
+  xy: 3279, 1037
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: 0
+particles/font-points-7
+  rotate: false
+  xy: 3088, 141
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: 0
+particles/font-points-8
+  rotate: false
+  xy: 3288, 1037
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: 0
+particles/font-points-9
+  rotate: false
+  xy: 3297, 1037
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: 0
+particles/line
+  rotate: false
+  xy: 4065, 3769
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+particles/ring
+  rotate: false
+  xy: 4065, 3733
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+particles/smoke
+  rotate: false
+  xy: 3723, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+pets/cat
+  rotate: false
+  xy: 3023, 1011
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: 0
+pets/cat
+  rotate: false
+  xy: 4059, 2213
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: 1
+pets/cat
+  rotate: false
+  xy: 4039, 559
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: 2
+pets/cat
+  rotate: false
+  xy: 2298, 13
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: 3
+pets/cat
+  rotate: false
+  xy: 422, 9
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: 4
+pets/cat
+  rotate: false
+  xy: 3023, 985
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: 5
+pets/dog
+  rotate: false
+  xy: 1, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+pets/dog
+  rotate: false
+  xy: 4063, 4029
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+pets/dog
+  rotate: false
+  xy: 35, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+pets/dog
+  rotate: false
+  xy: 4063, 3995
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+pets/dog
+  rotate: false
+  xy: 69, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+pets/dog
+  rotate: false
+  xy: 4063, 3961
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+pets/kitten
+  rotate: false
+  xy: 103, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+pets/kitten
+  rotate: false
+  xy: 4063, 3927
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+pets/kitten
+  rotate: false
+  xy: 137, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+pets/kitten
+  rotate: false
+  xy: 4063, 3893
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+pets/ross-dog
+  rotate: false
+  xy: 2797, 1255
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: 0
+pets/ross-dog
+  rotate: false
+  xy: 2251, 10
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: 1
+pets/ross-dog
+  rotate: false
+  xy: 375, 6
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: 2
+pets/ross-dog
+  rotate: false
+  xy: 3987, 754
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: 3
+pets/ross-dog
+  rotate: false
+  xy: 3751, 417
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: 4
+pets/white-lab-dog
+  rotate: false
+  xy: 2207, 1
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+pixel
+  rotate: false
+  xy: 3751, 414
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pixel-ui-pack/blue-progress-bar
+  rotate: false
+  xy: 4003, 2646
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+pixel-ui-pack/green-progress-bar
+  rotate: false
+  xy: 4065, 3787
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+pixel-ui-pack/pixel-ui
+  rotate: false
+  xy: 2257, 1247
+  size: 538, 592
+  orig: 538, 592
+  offset: 0, 0
+  index: -1
+pixel-ui-pack/red-progress-bar
+  rotate: false
+  xy: 4065, 3751
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+pixel-ui-pack/white-progress-bar
+  rotate: false
+  xy: 4065, 3715
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+player/jeff-idle-down/jeff-idle-down
+  rotate: false
+  xy: 3413, 721
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+player/jeff-idle-down/jeff-idle-down
+  rotate: false
+  xy: 3413, 721
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 4
+player/jeff-talking/jeff-talking
+  rotate: false
+  xy: 3413, 721
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+player/jeff-talking/jeff-talking
+  rotate: false
+  xy: 3413, 721
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 7
+player/jeff-idle-down/jeff-idle-down
+  rotate: false
+  xy: 3405, 639
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+player/jeff-idle-down/jeff-idle-down
+  rotate: false
+  xy: 3423, 491
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+player/jeff-idle-down/jeff-idle-down
+  rotate: false
+  xy: 3423, 409
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+player/jeff-idle-left/jeff-idle-left
+  rotate: false
+  xy: 3487, 639
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+player/jeff-idle-left/jeff-idle-left
+  rotate: false
+  xy: 3487, 639
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 4
+player/jeff-idle-left/jeff-idle-left
+  rotate: false
+  xy: 3505, 491
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+player/jeff-idle-left/jeff-idle-left
+  rotate: false
+  xy: 3505, 491
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+player/jeff-idle-left/jeff-idle-left
+  rotate: false
+  xy: 3505, 409
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+player/jeff-idle-right/jeff-idle-right
+  rotate: false
+  xy: 3477, 327
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+player/jeff-idle-right/jeff-idle-right
+  rotate: false
+  xy: 3477, 327
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 4
+player/jeff-idle-right/jeff-idle-right
+  rotate: false
+  xy: 3477, 327
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 5
+player/jeff-slash-right/jeff-slash-right
+  rotate: false
+  xy: 3477, 327
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+player/jeff-idle-right/jeff-idle-right
+  rotate: false
+  xy: 3477, 245
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+player/jeff-idle-right/jeff-idle-right
+  rotate: false
+  xy: 3477, 245
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+player/jeff-idle-right/jeff-idle-right
+  rotate: false
+  xy: 3477, 163
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+player/jeff-idle-up/jeff-idle-up
+  rotate: false
+  xy: 3477, 81
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+player/jeff-slash-up/jeff-slash-up
+  rotate: false
+  xy: 3477, 81
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+player/jeff-idle-up/jeff-idle-up
+  rotate: false
+  xy: 3559, 327
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+player/jeff-idle-up/jeff-idle-up
+  rotate: false
+  xy: 3559, 327
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 4
+player/jeff-idle-up/jeff-idle-up
+  rotate: false
+  xy: 3559, 245
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+player/jeff-idle-up/jeff-idle-up
+  rotate: false
+  xy: 3559, 163
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+player/jeff-idle/jeff-idle
+  rotate: false
+  xy: 3559, 81
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+player/jeff-idle/jeff-idle
+  rotate: false
+  xy: 3559, 81
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 4
+player/jeff-idle/jeff-idle
+  rotate: false
+  xy: 3547, 1316
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+player/jeff-idle/jeff-idle
+  rotate: false
+  xy: 3547, 1316
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+player/jeff-idle/jeff-idle
+  rotate: false
+  xy: 3547, 1234
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+player/jeff-slash-360/jeff-slash-360
+  rotate: false
+  xy: 3547, 1152
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+player/jeff-slash-360/jeff-slash-360
+  rotate: false
+  xy: 3547, 1070
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+player/jeff-slash-360/jeff-slash-360
+  rotate: false
+  xy: 3629, 1323
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+player/jeff-slash-360/jeff-slash-360
+  rotate: false
+  xy: 3711, 1323
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+player/jeff-slash-down/jeff-slash-down
+  rotate: false
+  xy: 3629, 1241
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+player/jeff-slash-down/jeff-slash-down
+  rotate: false
+  xy: 3793, 1323
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+player/jeff-slash-down/jeff-slash-down
+  rotate: false
+  xy: 3711, 1241
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+player/jeff-slash-down/jeff-slash-down
+  rotate: false
+  xy: 3629, 1159
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+player/jeff-slash-down/jeff-slash-down
+  rotate: false
+  xy: 3875, 1323
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 4
+player/jeff-slash-left/jeff-slash-left
+  rotate: false
+  xy: 3793, 1241
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+player/jeff-slash-left/jeff-slash-left
+  rotate: false
+  xy: 3711, 1159
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+player/jeff-slash-left/jeff-slash-left
+  rotate: false
+  xy: 3629, 1077
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+player/jeff-slash-left/jeff-slash-left
+  rotate: false
+  xy: 3875, 1241
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+player/jeff-slash-left/jeff-slash-left
+  rotate: false
+  xy: 3793, 1159
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 4
+player/jeff-slash-right/jeff-slash-right
+  rotate: false
+  xy: 3711, 1077
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+player/jeff-slash-right/jeff-slash-right
+  rotate: false
+  xy: 3875, 1159
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+player/jeff-slash-right/jeff-slash-right
+  rotate: false
+  xy: 3793, 1077
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+player/jeff-slash-right/jeff-slash-right
+  rotate: false
+  xy: 3875, 1077
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 4
+player/jeff-slash-up/jeff-slash-up
+  rotate: false
+  xy: 3957, 1277
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+player/jeff-slash-up/jeff-slash-up
+  rotate: false
+  xy: 3957, 1195
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+player/jeff-slash-up/jeff-slash-up
+  rotate: false
+  xy: 3957, 1113
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+player/jeff-slash-up/jeff-slash-up
+  rotate: false
+  xy: 3577, 988
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 4
+player/jeff-stun/jeff-stun
+  rotate: false
+  xy: 3577, 906
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+player/jeff-stun/jeff-stun
+  rotate: false
+  xy: 3577, 824
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+player/jeff-stun/jeff-stun
+  rotate: false
+  xy: 3577, 742
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+player/jeff-stun/jeff-stun
+  rotate: false
+  xy: 3659, 995
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+player/jeff-stun/jeff-stun
+  rotate: false
+  xy: 3659, 913
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 4
+player/jeff-talking/jeff-talking
+  rotate: false
+  xy: 3741, 995
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+player/jeff-talking/jeff-talking
+  rotate: false
+  xy: 3741, 995
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 6
+player/jeff-talking/jeff-talking
+  rotate: false
+  xy: 3659, 831
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+player/jeff-talking/jeff-talking
+  rotate: false
+  xy: 3659, 831
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 5
+player/jeff-talking/jeff-talking
+  rotate: false
+  xy: 3741, 913
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+player/jeff-talking/jeff-talking
+  rotate: false
+  xy: 3823, 995
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 4
+player/jeff-talking/jeff-talking
+  rotate: false
+  xy: 3823, 995
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 8
+player/jeff-walk-down/jeff-walk-down
+  rotate: false
+  xy: 3659, 749
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+player/jeff-walk-down/jeff-walk-down
+  rotate: false
+  xy: 3741, 831
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+player/jeff-walk-down/jeff-walk-down
+  rotate: false
+  xy: 3823, 913
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+player/jeff-walk-down/jeff-walk-down
+  rotate: false
+  xy: 3741, 749
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+player/jeff-walk-down/jeff-walk-down
+  rotate: false
+  xy: 3823, 831
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 4
+player/jeff-walk-down/jeff-walk-down
+  rotate: false
+  xy: 3823, 749
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 5
+player/jeff-walk-left/jeff-walk-left
+  rotate: false
+  xy: 3569, 660
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+player/jeff-walk-left/jeff-walk-left
+  rotate: false
+  xy: 3905, 995
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+player/jeff-walk-left/jeff-walk-left
+  rotate: false
+  xy: 3905, 913
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+player/jeff-walk-left/jeff-walk-left
+  rotate: false
+  xy: 3905, 831
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+player/jeff-walk-left/jeff-walk-left
+  rotate: false
+  xy: 3905, 749
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 4
+player/jeff-walk-right/jeff-walk-right
+  rotate: false
+  xy: 3603, 578
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+player/jeff-walk-right/jeff-walk-right
+  rotate: false
+  xy: 3651, 660
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+player/jeff-walk-right/jeff-walk-right
+  rotate: false
+  xy: 3733, 667
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+player/jeff-walk-right/jeff-walk-right
+  rotate: false
+  xy: 3815, 667
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+player/jeff-walk-right/jeff-walk-right
+  rotate: false
+  xy: 3897, 667
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 4
+player/jeff-walk-up/jeff-walk-up
+  rotate: false
+  xy: 3685, 578
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+player/jeff-walk-up/jeff-walk-up
+  rotate: false
+  xy: 3767, 585
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+player/jeff-walk-up/jeff-walk-up
+  rotate: false
+  xy: 3849, 585
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+player/jeff-walk-up/jeff-walk-up
+  rotate: false
+  xy: 3931, 585
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+player/jeff-walk-up/jeff-walk-up
+  rotate: false
+  xy: 3979, 667
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 4
+player/jeff-walk-up/jeff-walk-up
+  rotate: false
+  xy: 4013, 585
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 5
+player/swipes/swipe-down
+  rotate: false
+  xy: 3587, 409
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+player/swipes/swipe-left
+  rotate: false
+  xy: 3669, 496
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+player/swipes/swipe-right
+  rotate: false
+  xy: 3669, 414
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+player/swipes/swipe-up
+  rotate: false
+  xy: 3641, 327
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+player/zero-360/zero-360
+  rotate: false
+  xy: 3641, 245
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+player/zero-360/zero-360
+  rotate: false
+  xy: 3641, 163
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+player/zero-360/zero-360
+  rotate: false
+  xy: 3641, 81
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+player/zero-360/zero-360
+  rotate: false
+  xy: 3723, 332
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3
+ring
+  rotate: false
+  xy: 3543, 15
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+title-screen/title-genie/title-genie
+  rotate: false
+  xy: 2257, 543
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 0
+title-screen/title-genie/title-genie
+  rotate: false
+  xy: 2257, 543
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 6
+title-screen/title-genie/title-genie
+  rotate: false
+  xy: 3555, 1889
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 1
+title-screen/title-genie/title-genie
+  rotate: false
+  xy: 3555, 1889
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 5
+title-screen/title-genie/title-genie
+  rotate: false
+  xy: 2797, 1439
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 2
+title-screen/title-genie/title-genie
+  rotate: false
+  xy: 2797, 1439
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 4
+title-screen/title-genie/title-genie
+  rotate: false
+  xy: 2257, 141
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 3
+title-screen/title-genie/title-genie
+  rotate: false
+  xy: 2257, 141
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 7
+title-screen/title-genie/title-genie
+  rotate: false
+  xy: 2659, 543
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 8
+title-screen/title-genie/title-genie
+  rotate: false
+  xy: 2659, 543
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 13
+title-screen/title-genie/title-genie
+  rotate: false
+  xy: 2659, 141
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 9
+title-screen/title-genie/title-genie
+  rotate: false
+  xy: 2659, 141
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 14
+title-screen/title-genie/title-genie
+  rotate: false
+  xy: 2859, 1037
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 10
+title-screen/title-genie/title-genie
+  rotate: false
+  xy: 2859, 1037
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 12
+title-screen/title-genie/title-genie
+  rotate: false
+  xy: 3551, 1487
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 11
+title-screen/title-pc/title-pc
+  rotate: false
+  xy: 1, 3345
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: 0
+title-screen/title-pc/title-pc
+  rotate: false
+  xy: 1, 3345
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: 1
+title-screen/title-pc/title-pc
+  rotate: false
+  xy: 1, 2593
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: 2
+title-screen/title-pc/title-pc
+  rotate: false
+  xy: 753, 3345
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: 3
+title-screen/title-pc/title-pc
+  rotate: false
+  xy: 1, 1841
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: 4
+title-screen/title-pc/title-pc
+  rotate: false
+  xy: 753, 2593
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: 5
+title-screen/title-pc/title-pc
+  rotate: false
+  xy: 1505, 3345
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: 6
+title-screen/title-pc/title-pc
+  rotate: false
+  xy: 1, 1089
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: 7
+title-screen/title-pc/title-pc
+  rotate: false
+  xy: 753, 1841
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: 8
+title-screen/title-pc/title-pc
+  rotate: false
+  xy: 1505, 2593
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: 9
+title-screen/title-pc/title-pc
+  rotate: false
+  xy: 2257, 3345
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: 10
+title-screen/title-pc/title-pc
+  rotate: false
+  xy: 1, 337
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: 11
+title-screen/title-pc/title-pc
+  rotate: false
+  xy: 753, 1089
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: 12
+title-screen/title-pc/title-pc
+  rotate: false
+  xy: 1505, 1841
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: 13
+title-screen/title-pc/title-pc
+  rotate: false
+  xy: 2257, 2593
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: 14
+title-screen/title-pc/title-pc
+  rotate: false
+  xy: 3009, 3345
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: 15
+title-screen/title-pc/title-pc
+  rotate: false
+  xy: 753, 337
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: 16
+title-screen/title-pc/title-pc
+  rotate: false
+  xy: 1505, 1089
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: 17
+title-screen/title-pc/title-pc
+  rotate: false
+  xy: 2257, 1841
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: 18
+title-screen/title-pc/title-pc
+  rotate: false
+  xy: 3009, 2593
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: 19
+title-screen/title-pc/title-pc
+  rotate: false
+  xy: 1505, 337
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: 20
+title-screen/title-sleep/title-sleep
+  rotate: false
+  xy: 1, 35
+  size: 800, 300
+  orig: 800, 300
+  offset: 0, 0
+  index: 0
+title-screen/title-sleep/title-sleep
+  rotate: false
+  xy: 803, 35
+  size: 800, 300
+  orig: 800, 300
+  offset: 0, 0
+  index: 1
+title-screen/title-sleep/title-sleep
+  rotate: false
+  xy: 803, 35
+  size: 800, 300
+  orig: 800, 300
+  offset: 0, 0
+  index: 3
+title-screen/title-sleep/title-sleep
+  rotate: false
+  xy: 3009, 2291
+  size: 800, 300
+  orig: 800, 300
+  offset: 0, 0
+  index: 2
+title-screen/title-text-crunchtime/title-text-crunchtime
+  rotate: false
+  xy: 3199, 1653
+  size: 350, 250
+  orig: 350, 250
+  offset: 0, 0
+  index: 0
+title-screen/title-text-crunchtime/title-text-crunchtime
+  rotate: false
+  xy: 3061, 785
+  size: 350, 250
+  orig: 350, 250
+  offset: 0, 0
+  index: 1
+title-screen/title-text-game/title-text-game
+  rotate: false
+  xy: 1605, 35
+  size: 600, 300
+  orig: 600, 300
+  offset: 0, 0
+  index: 0
+title-screen/title-text-genie/title-text-genie
+  rotate: false
+  xy: 2257, 945
+  size: 600, 300
+  orig: 600, 300
+  offset: 0, 0
+  index: 0
+title-screen/title-zzz/title-zzz
+  rotate: false
+  xy: 3761, 3613
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 0
+title-screen/title-zzz/title-zzz
+  rotate: false
+  xy: 3761, 3371
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 1
+title-screen/title-zzz/title-zzz
+  rotate: false
+  xy: 3761, 3129
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 2
+title-screen/title-zzz/title-zzz
+  rotate: false
+  xy: 3761, 2887
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 3
+title-screen/title-zzz/title-zzz
+  rotate: false
+  xy: 3761, 2645
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 4
+title-screen/title-zzz/title-zzz
+  rotate: false
+  xy: 3811, 2403
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 5
+title-screen/title-zzz/title-zzz
+  rotate: false
+  xy: 3061, 543
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: 6

@@ -1,0 +1,5585 @@
+
+sprites.png
+size: 4096, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+faces/celeb-heads/celeb-betty
+  rotate: false
+  xy: 3507, 953
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/celeb-heads/celeb-coolio
+  rotate: false
+  xy: 3815, 905
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/celeb-heads/celeb-costanza
+  rotate: false
+  xy: 3881, 971
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/celeb-heads/celeb-gallagher
+  rotate: false
+  xy: 3881, 905
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/celeb-heads/celeb-gilbert
+  rotate: false
+  xy: 3917, 1175
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/celeb-heads/celeb-liotta
+  rotate: false
+  xy: 3917, 1109
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/celeb-heads/celeb-louie
+  rotate: false
+  xy: 3917, 1043
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/celeb-heads/celeb-pele
+  rotate: false
+  xy: 3947, 977
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/celeb-heads/celeb-pope
+  rotate: false
+  xy: 3947, 911
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/celeb-heads/celeb-queen
+  rotate: false
+  xy: 3945, 1419
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/celeb-heads/celeb-uhura
+  rotate: false
+  xy: 3945, 1353
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/celeb-heads/celeb-wa-wa
+  rotate: false
+  xy: 3945, 1287
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/beard-beard
+  rotate: false
+  xy: 2053, 1115
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/beard-beard
+  rotate: false
+  xy: 2053, 1115
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/beard-goatee
+  rotate: false
+  xy: 2493, 1469
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/beard-goatee
+  rotate: false
+  xy: 2493, 1469
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/beard-soulpatch
+  rotate: false
+  xy: 2311, 1185
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/beard-soulpatch
+  rotate: false
+  xy: 2311, 1185
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/hair-ariana-ponytail
+  rotate: false
+  xy: 1227, 152
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hair-ariana-ponytail
+  rotate: false
+  xy: 1227, 152
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/hair-balding
+  rotate: false
+  xy: 1293, 218
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hair-balding
+  rotate: false
+  xy: 1293, 218
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/hair-curly-black
+  rotate: false
+  xy: 1359, 284
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hair-curly-black
+  rotate: false
+  xy: 1359, 284
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/hair-curly-red
+  rotate: false
+  xy: 1293, 152
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hair-curly-red
+  rotate: false
+  xy: 1293, 152
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/hair-leia-brown
+  rotate: false
+  xy: 1359, 218
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hair-leia-brown
+  rotate: false
+  xy: 1359, 218
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/hair-long-blue
+  rotate: false
+  xy: 1359, 152
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hair-long-blue
+  rotate: false
+  xy: 1359, 152
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/hair-long-brown
+  rotate: false
+  xy: 1425, 218
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hair-long-brown
+  rotate: false
+  xy: 1425, 218
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/hair-long-darkteal
+  rotate: false
+  xy: 1491, 284
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hair-long-darkteal
+  rotate: false
+  xy: 1491, 284
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/hair-long-green
+  rotate: false
+  xy: 1425, 152
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hair-long-green
+  rotate: false
+  xy: 1425, 152
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/hair-manbun
+  rotate: false
+  xy: 1491, 218
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hair-manbun
+  rotate: false
+  xy: 1491, 218
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hair-short-black_00old
+  rotate: false
+  xy: 1491, 218
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+faces/parts/hair-mohawk-blue
+  rotate: false
+  xy: 1557, 284
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hair-mohawk-blue
+  rotate: false
+  xy: 1557, 284
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/hair-mohawk-green
+  rotate: false
+  xy: 1491, 152
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hair-mohawk-green
+  rotate: false
+  xy: 1491, 152
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/hair-mohawk-red
+  rotate: false
+  xy: 1557, 218
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hair-mohawk-red
+  rotate: false
+  xy: 1557, 218
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/hair-powdered-wig
+  rotate: false
+  xy: 1557, 152
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hair-powdered-wig
+  rotate: false
+  xy: 1557, 152
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/hair-short-black
+  rotate: false
+  xy: 1231, 86
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hair-short-black
+  rotate: false
+  xy: 1231, 86
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/hair-straight-blonde
+  rotate: false
+  xy: 1297, 86
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hair-straight-blonde
+  rotate: false
+  xy: 1297, 86
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/hat-beret-green
+  rotate: false
+  xy: 1363, 86
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hat-beret-green
+  rotate: false
+  xy: 1363, 86
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/hat-beret-red
+  rotate: false
+  xy: 1429, 86
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hat-beret-red
+  rotate: false
+  xy: 1429, 86
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/hat-fez
+  rotate: false
+  xy: 1495, 86
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hat-fez
+  rotate: false
+  xy: 1495, 86
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/hat-hardhat
+  rotate: false
+  xy: 1231, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hat-hardhat
+  rotate: false
+  xy: 1231, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/hat-heisenberg
+  rotate: false
+  xy: 1297, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hat-heisenberg
+  rotate: false
+  xy: 1297, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/hat-lombardi
+  rotate: false
+  xy: 1363, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hat-lombardi
+  rotate: false
+  xy: 1363, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/hat-sheriff
+  rotate: false
+  xy: 1429, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hat-sheriff
+  rotate: false
+  xy: 1429, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/hat-summer
+  rotate: false
+  xy: 1495, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/hat-summer
+  rotate: false
+  xy: 1495, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/head-a-1
+  rotate: false
+  xy: 1561, 86
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/head-a-1
+  rotate: false
+  xy: 1561, 86
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/head-a-2
+  rotate: false
+  xy: 1561, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/head-a-2
+  rotate: false
+  xy: 1561, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/head-a-idle
+  rotate: false
+  xy: 1561, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/head-a-3
+  rotate: false
+  xy: 2317, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/head-a-3
+  rotate: false
+  xy: 2317, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/head-a-4
+  rotate: false
+  xy: 2385, 419
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/head-a-4
+  rotate: false
+  xy: 2385, 419
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/head-a-6
+  rotate: false
+  xy: 2383, 353
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/head-b-1
+  rotate: false
+  xy: 2383, 287
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/head-b-1
+  rotate: false
+  xy: 2383, 287
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/head-b-2
+  rotate: false
+  xy: 2707, 863
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/head-b-2
+  rotate: false
+  xy: 2707, 863
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/head-b-3
+  rotate: false
+  xy: 2773, 863
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/head-b-3
+  rotate: false
+  xy: 2773, 863
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/head-b-4
+  rotate: false
+  xy: 2723, 797
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/head-b-4
+  rotate: false
+  xy: 2723, 797
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/head-blank
+  rotate: false
+  xy: 2723, 731
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/neckwear-bowtie
+  rotate: false
+  xy: 3859, 707
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/neckwear-bowtie
+  rotate: false
+  xy: 3859, 707
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/neckwear-neckerchief
+  rotate: false
+  xy: 3925, 839
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/neckwear-neckerchief
+  rotate: false
+  xy: 3925, 839
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/parts/neckwear-spiked-collar
+  rotate: false
+  xy: 3925, 773
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/neckwear-spiked-collar
+  rotate: false
+  xy: 3925, 773
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test-face
+  rotate: false
+  xy: 3843, 1241
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+faces/test/blink
+  rotate: false
+  xy: 2047, 435
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/blink
+  rotate: false
+  xy: 2047, 435
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+faces/test/blink
+  rotate: false
+  xy: 2053, 1049
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+faces/test/blink
+  rotate: false
+  xy: 2493, 1403
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+faces/test/cigarette
+  rotate: false
+  xy: 4011, 1417
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/clothes-buttonup-blue
+  rotate: false
+  xy: 4011, 1351
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/clothes-buttonup-purple
+  rotate: false
+  xy: 4011, 1285
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/clothes-hawaiian-blue
+  rotate: false
+  xy: 1236, 416
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/clothes-hawaiian-red
+  rotate: false
+  xy: 1302, 416
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/clothes-plain-green
+  rotate: false
+  xy: 1368, 416
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/clothes-sweatshirt-blue
+  rotate: false
+  xy: 1434, 416
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/clothes-sweatshirt-red
+  rotate: false
+  xy: 1500, 416
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/collar-a-idle
+  rotate: false
+  xy: 1566, 416
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/eyepatch-a
+  rotate: false
+  xy: 1230, 350
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/eyes-a-idle
+  rotate: false
+  xy: 1296, 350
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/feature-blank
+  rotate: false
+  xy: 1362, 350
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+faces/test/glasses-a
+  rotate: false
+  xy: 1428, 350
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/glasses-aviator
+  rotate: false
+  xy: 1494, 350
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/glasses-b
+  rotate: false
+  xy: 1560, 350
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/glasses-big-a
+  rotate: false
+  xy: 1227, 284
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/glasses-reflective
+  rotate: false
+  xy: 1227, 218
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/glasses-star
+  rotate: false
+  xy: 1293, 284
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+faces/test/hair-long-blonde
+  rotate: false
+  xy: 1425, 284
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/head-blank
+  rotate: false
+  xy: 2723, 665
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/mouth-lips-blue
+  rotate: false
+  xy: 3727, 869
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/mouth-lips-green
+  rotate: false
+  xy: 3727, 803
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/mouth-lips-plain
+  rotate: false
+  xy: 3793, 839
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/mouth-lips-red
+  rotate: false
+  xy: 3859, 839
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/mustache-a
+  rotate: false
+  xy: 3661, 763
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/neck-1
+  rotate: false
+  xy: 3727, 737
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/neck-2
+  rotate: false
+  xy: 3793, 773
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/neck-3
+  rotate: false
+  xy: 3859, 773
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/neck-4
+  rotate: false
+  xy: 3793, 707
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/nose-clown
+  rotate: false
+  xy: 3925, 707
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/tongue
+  rotate: false
+  xy: 2987, 550
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+fire-color-gradient
+  rotate: false
+  xy: 2053, 1535
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+icons/input-prompts
+  rotate: false
+  xy: 1, 35
+  size: 544, 384
+  orig: 544, 384
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote__
+  rotate: false
+  xy: 2559, 1491
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_alert
+  rotate: false
+  xy: 2559, 1347
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_anger
+  rotate: false
+  xy: 1743, 605
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_bars
+  rotate: false
+  xy: 4073, 1756
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_cash
+  rotate: false
+  xy: 4077, 1236
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_circle
+  rotate: false
+  xy: 4079, 1218
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_cloud
+  rotate: false
+  xy: 4079, 1074
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_cross
+  rotate: false
+  xy: 2377, 1233
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_dots1
+  rotate: false
+  xy: 2560, 391
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_dots2
+  rotate: false
+  xy: 2555, 337
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_dots3
+  rotate: false
+  xy: 615, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_drop
+  rotate: false
+  xy: 759, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_drops
+  rotate: false
+  xy: 903, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_exclamation
+  rotate: false
+  xy: 3233, 421
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_exclamations
+  rotate: false
+  xy: 3226, 367
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_faceAngry
+  rotate: false
+  xy: 2579, 616
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_faceHappy
+  rotate: false
+  xy: 1668, 413
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_faceSad
+  rotate: false
+  xy: 1644, 377
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_heart
+  rotate: false
+  xy: 1680, 359
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_heartBroken
+  rotate: false
+  xy: 1752, 381
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_hearts
+  rotate: false
+  xy: 1824, 381
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_idea
+  rotate: false
+  xy: 1896, 381
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_laugh
+  rotate: false
+  xy: 1968, 381
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_music
+  rotate: false
+  xy: 1626, 341
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_question
+  rotate: false
+  xy: 1770, 345
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_sleep
+  rotate: false
+  xy: 1914, 345
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_sleeps
+  rotate: false
+  xy: 1623, 305
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_star
+  rotate: false
+  xy: 1641, 269
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_stars
+  rotate: false
+  xy: 1695, 323
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-1/emote_swirl
+  rotate: false
+  xy: 1623, 197
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote__
+  rotate: false
+  xy: 2559, 1473
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_alert
+  rotate: false
+  xy: 3218, 482
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_anger
+  rotate: false
+  xy: 4073, 1792
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_bars
+  rotate: false
+  xy: 4077, 1272
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_cash
+  rotate: false
+  xy: 4073, 1702
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_circle
+  rotate: false
+  xy: 4079, 1200
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_cloud
+  rotate: false
+  xy: 4079, 1056
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_cross
+  rotate: false
+  xy: 2377, 1215
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_dots1
+  rotate: false
+  xy: 1129, 3
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_dots2
+  rotate: false
+  xy: 2555, 319
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_dots3
+  rotate: false
+  xy: 633, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_drop
+  rotate: false
+  xy: 777, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_drops
+  rotate: false
+  xy: 3236, 475
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_exclamation
+  rotate: false
+  xy: 3251, 421
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_exclamations
+  rotate: false
+  xy: 3244, 385
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_faceAngry
+  rotate: false
+  xy: 2579, 598
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_faceHappy
+  rotate: false
+  xy: 1686, 413
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_faceSad
+  rotate: false
+  xy: 1662, 395
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_heart
+  rotate: false
+  xy: 1698, 377
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_heartBroken
+  rotate: false
+  xy: 1752, 363
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_hearts
+  rotate: false
+  xy: 1824, 363
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_idea
+  rotate: false
+  xy: 1896, 363
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_laugh
+  rotate: false
+  xy: 1968, 363
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_music
+  rotate: false
+  xy: 1644, 341
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_question
+  rotate: false
+  xy: 1788, 345
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_sleep
+  rotate: false
+  xy: 1932, 345
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_sleeps
+  rotate: false
+  xy: 1641, 323
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_star
+  rotate: false
+  xy: 1659, 305
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_stars
+  rotate: false
+  xy: 1623, 215
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-2/emote_swirl
+  rotate: false
+  xy: 1641, 215
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote__
+  rotate: false
+  xy: 2559, 1455
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_alert
+  rotate: false
+  xy: 1743, 623
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_anger
+  rotate: false
+  xy: 4077, 1308
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_bars
+  rotate: false
+  xy: 1743, 551
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_cash
+  rotate: false
+  xy: 4073, 1684
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_circle
+  rotate: false
+  xy: 4079, 1182
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_cloud
+  rotate: false
+  xy: 4079, 1038
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_cross
+  rotate: false
+  xy: 2377, 1197
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_dots1
+  rotate: false
+  xy: 1147, 3
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_dots2
+  rotate: false
+  xy: 2555, 301
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_dots3
+  rotate: false
+  xy: 651, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_drop
+  rotate: false
+  xy: 795, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_drops
+  rotate: false
+  xy: 3254, 475
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_exclamation
+  rotate: false
+  xy: 3208, 392
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_exclamations
+  rotate: false
+  xy: 3244, 367
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_faceAngry
+  rotate: false
+  xy: 2597, 618
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_faceHappy
+  rotate: false
+  xy: 1704, 413
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_faceSad
+  rotate: false
+  xy: 1644, 359
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_heart
+  rotate: false
+  xy: 1716, 395
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_heartBroken
+  rotate: false
+  xy: 1770, 381
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_hearts
+  rotate: false
+  xy: 1842, 381
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_idea
+  rotate: false
+  xy: 1914, 381
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_laugh
+  rotate: false
+  xy: 1986, 381
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_music
+  rotate: false
+  xy: 1662, 341
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_question
+  rotate: false
+  xy: 1806, 345
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_sleep
+  rotate: false
+  xy: 1950, 345
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_sleeps
+  rotate: false
+  xy: 1623, 287
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_star
+  rotate: false
+  xy: 1677, 323
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_stars
+  rotate: false
+  xy: 1641, 233
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-3/emote_swirl
+  rotate: false
+  xy: 1659, 233
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote__
+  rotate: false
+  xy: 2559, 1437
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_alert
+  rotate: false
+  xy: 3444, 588
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_anger
+  rotate: false
+  xy: 3434, 789
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_bars
+  rotate: false
+  xy: 4073, 1738
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_cash
+  rotate: false
+  xy: 4073, 1666
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_circle
+  rotate: false
+  xy: 4079, 1164
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_cloud
+  rotate: false
+  xy: 4079, 1020
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_cross
+  rotate: false
+  xy: 3983, 1225
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_dots1
+  rotate: false
+  xy: 1165, 3
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_dots2
+  rotate: false
+  xy: 4073, 930
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_dots3
+  rotate: false
+  xy: 669, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_drop
+  rotate: false
+  xy: 813, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_drops
+  rotate: false
+  xy: 3233, 457
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_exclamation
+  rotate: false
+  xy: 3208, 374
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_exclamations
+  rotate: false
+  xy: 3226, 349
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_faceAngry
+  rotate: false
+  xy: 2597, 600
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_faceHappy
+  rotate: false
+  xy: 1722, 413
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_faceSad
+  rotate: false
+  xy: 1662, 377
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_heart
+  rotate: false
+  xy: 1698, 359
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_heartBroken
+  rotate: false
+  xy: 1770, 363
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_hearts
+  rotate: false
+  xy: 1842, 363
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_idea
+  rotate: false
+  xy: 1914, 363
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_laugh
+  rotate: false
+  xy: 1986, 363
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_music
+  rotate: false
+  xy: 1680, 341
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_question
+  rotate: false
+  xy: 1824, 345
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_sleep
+  rotate: false
+  xy: 1968, 345
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_sleeps
+  rotate: false
+  xy: 1623, 269
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_star
+  rotate: false
+  xy: 1623, 233
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_stars
+  rotate: false
+  xy: 1659, 251
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-4/emote_swirl
+  rotate: false
+  xy: 1677, 251
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote__
+  rotate: false
+  xy: 2559, 1419
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_alert
+  rotate: false
+  xy: 4073, 1810
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_anger
+  rotate: false
+  xy: 1743, 587
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_bars
+  rotate: false
+  xy: 4077, 1254
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_cash
+  rotate: false
+  xy: 4073, 1648
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_circle
+  rotate: false
+  xy: 4079, 1146
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_cloud
+  rotate: false
+  xy: 4079, 1002
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_cross
+  rotate: false
+  xy: 3462, 588
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_dots1
+  rotate: false
+  xy: 1183, 3
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_dots2
+  rotate: false
+  xy: 4073, 912
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_dots3
+  rotate: false
+  xy: 687, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_drop
+  rotate: false
+  xy: 831, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_drops
+  rotate: false
+  xy: 3233, 439
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_exclamation
+  rotate: false
+  xy: 3208, 356
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_exclamations
+  rotate: false
+  xy: 3244, 349
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_faceAngry
+  rotate: false
+  xy: 2555, 283
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_faceHappy
+  rotate: false
+  xy: 1626, 395
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_faceSad
+  rotate: false
+  xy: 1680, 395
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_heart
+  rotate: false
+  xy: 1716, 377
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_heartBroken
+  rotate: false
+  xy: 1788, 381
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_hearts
+  rotate: false
+  xy: 1860, 381
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_idea
+  rotate: false
+  xy: 1932, 381
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_laugh
+  rotate: false
+  xy: 2004, 381
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_music
+  rotate: false
+  xy: 1698, 341
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_question
+  rotate: false
+  xy: 1842, 345
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_sleep
+  rotate: false
+  xy: 1986, 345
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_sleeps
+  rotate: false
+  xy: 1641, 305
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_star
+  rotate: false
+  xy: 1641, 251
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_stars
+  rotate: false
+  xy: 1677, 287
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-5/emote_swirl
+  rotate: false
+  xy: 1695, 287
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote__
+  rotate: false
+  xy: 2559, 1401
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_alert
+  rotate: false
+  xy: 1227, 494
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_anger
+  rotate: false
+  xy: 4073, 1774
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_bars
+  rotate: false
+  xy: 1743, 533
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_cash
+  rotate: false
+  xy: 4073, 1630
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_circle
+  rotate: false
+  xy: 4079, 1128
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_cloud
+  rotate: false
+  xy: 4079, 984
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_cross
+  rotate: false
+  xy: 3215, 464
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_dots1
+  rotate: false
+  xy: 1201, 3
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_dots2
+  rotate: false
+  xy: 561, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_dots3
+  rotate: false
+  xy: 705, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_drop
+  rotate: false
+  xy: 849, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_drops
+  rotate: false
+  xy: 3251, 457
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_exclamation
+  rotate: false
+  xy: 3233, 403
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_exclamations
+  rotate: false
+  xy: 3208, 338
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_faceAngry
+  rotate: false
+  xy: 2551, 265
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_faceHappy
+  rotate: false
+  xy: 1626, 377
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_faceSad
+  rotate: false
+  xy: 1662, 359
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_heart
+  rotate: false
+  xy: 1716, 359
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_heartBroken
+  rotate: false
+  xy: 1788, 363
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_hearts
+  rotate: false
+  xy: 1860, 363
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_idea
+  rotate: false
+  xy: 1932, 363
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_laugh
+  rotate: false
+  xy: 2004, 363
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_music
+  rotate: false
+  xy: 1716, 341
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_question
+  rotate: false
+  xy: 1860, 345
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_sleep
+  rotate: false
+  xy: 2004, 345
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_sleeps
+  rotate: false
+  xy: 1659, 323
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_star
+  rotate: false
+  xy: 1659, 287
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_stars
+  rotate: false
+  xy: 1677, 269
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-6/emote_swirl
+  rotate: false
+  xy: 1695, 269
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote__
+  rotate: false
+  xy: 2559, 1383
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_alert
+  rotate: false
+  xy: 4077, 1326
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_anger
+  rotate: false
+  xy: 4077, 1290
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_bars
+  rotate: false
+  xy: 1741, 515
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_cash
+  rotate: false
+  xy: 4073, 1612
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_circle
+  rotate: false
+  xy: 4079, 1110
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_cloud
+  rotate: false
+  xy: 4079, 966
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_cross
+  rotate: false
+  xy: 3215, 446
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_dots1
+  rotate: false
+  xy: 2555, 373
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_dots2
+  rotate: false
+  xy: 579, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_dots3
+  rotate: false
+  xy: 723, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_drop
+  rotate: false
+  xy: 867, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_drops
+  rotate: false
+  xy: 3251, 439
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_exclamation
+  rotate: false
+  xy: 3251, 403
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_exclamations
+  rotate: false
+  xy: 3226, 331
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_faceAngry
+  rotate: false
+  xy: 1632, 413
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_faceHappy
+  rotate: false
+  xy: 1644, 395
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_faceSad
+  rotate: false
+  xy: 1680, 377
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_heart
+  rotate: false
+  xy: 1734, 381
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_heartBroken
+  rotate: false
+  xy: 1806, 381
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_hearts
+  rotate: false
+  xy: 1878, 381
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_idea
+  rotate: false
+  xy: 1950, 381
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_laugh
+  rotate: false
+  xy: 2022, 381
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_music
+  rotate: false
+  xy: 1734, 345
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_question
+  rotate: false
+  xy: 1878, 345
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_sleep
+  rotate: false
+  xy: 2022, 345
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_sleeps
+  rotate: false
+  xy: 1623, 251
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_star
+  rotate: false
+  xy: 1659, 269
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_stars
+  rotate: false
+  xy: 1695, 305
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-7/emote_swirl
+  rotate: false
+  xy: 1713, 305
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote__
+  rotate: false
+  xy: 2559, 1365
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_alert
+  rotate: false
+  xy: 3434, 807
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_anger
+  rotate: false
+  xy: 1743, 569
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_bars
+  rotate: false
+  xy: 4073, 1720
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_cash
+  rotate: false
+  xy: 4073, 1594
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_circle
+  rotate: false
+  xy: 4079, 1092
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_cloud
+  rotate: false
+  xy: 4079, 948
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_cross
+  rotate: false
+  xy: 3215, 428
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_dots1
+  rotate: false
+  xy: 2555, 355
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_dots2
+  rotate: false
+  xy: 597, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_dots3
+  rotate: false
+  xy: 741, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_drop
+  rotate: false
+  xy: 885, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_drops
+  rotate: false
+  xy: 3215, 410
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_exclamation
+  rotate: false
+  xy: 3226, 385
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_exclamations
+  rotate: false
+  xy: 3244, 331
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_faceAngry
+  rotate: false
+  xy: 1650, 413
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_faceHappy
+  rotate: false
+  xy: 1626, 359
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_faceSad
+  rotate: false
+  xy: 1698, 395
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_heart
+  rotate: false
+  xy: 1734, 363
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_heartBroken
+  rotate: false
+  xy: 1806, 363
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_hearts
+  rotate: false
+  xy: 1878, 363
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_idea
+  rotate: false
+  xy: 1950, 363
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_laugh
+  rotate: false
+  xy: 2022, 363
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_music
+  rotate: false
+  xy: 1752, 345
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_question
+  rotate: false
+  xy: 1896, 345
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_sleep
+  rotate: false
+  xy: 1623, 323
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_sleeps
+  rotate: false
+  xy: 1641, 287
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_star
+  rotate: false
+  xy: 1677, 305
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_stars
+  rotate: false
+  xy: 1713, 323
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-emotes/style-8/emote_swirl
+  rotate: false
+  xy: 1623, 179
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_boxCheckmark
+  rotate: false
+  xy: 2839, 891
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_boxCross
+  rotate: false
+  xy: 4057, 873
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_boxTick
+  rotate: false
+  xy: 2887, 1281
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_button00
+  rotate: false
+  xy: 2127, 478
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_button01
+  rotate: false
+  xy: 3089, 1487
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_button02
+  rotate: false
+  xy: 3281, 1483
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_button03
+  rotate: false
+  xy: 3247, 1385
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_button04
+  rotate: false
+  xy: 3055, 1436
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_button05
+  rotate: false
+  xy: 603, 383
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_button06
+  rotate: false
+  xy: 1185, 433
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_button07
+  rotate: false
+  xy: 3661, 895
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_button08
+  rotate: false
+  xy: 1179, 383
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_button09
+  rotate: false
+  xy: 3053, 565
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_button10
+  rotate: false
+  xy: 1125, 484
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_button11
+  rotate: false
+  xy: 3104, 565
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_button12
+  rotate: false
+  xy: 3887, 1448
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_button13
+  rotate: false
+  xy: 3055, 1385
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_checkmark
+  rotate: false
+  xy: 3055, 1487
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_circle
+  rotate: false
+  xy: 3017, 1211
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_cross
+  rotate: false
+  xy: 4077, 1463
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_panel
+  rotate: false
+  xy: 3209, 978
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_sliderDown
+  rotate: false
+  xy: 3981, 1243
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_sliderLeft
+  rotate: false
+  xy: 931, 1
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_sliderRight
+  rotate: false
+  xy: 972, 1
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_sliderUp
+  rotate: false
+  xy: 3983, 1043
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+kenney-uipack/blue_tick
+  rotate: false
+  xy: 4073, 1828
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+kenney-uipack/dropdownBottom
+  rotate: false
+  xy: 1, 9
+  size: 190, 24
+  orig: 190, 24
+  offset: 0, 0
+  index: -1
+kenney-uipack/dropdownMid
+  rotate: false
+  xy: 193, 9
+  size: 190, 24
+  orig: 190, 24
+  offset: 0, 0
+  index: -1
+kenney-uipack/dropdownTop
+  rotate: false
+  xy: 3055, 1359
+  size: 190, 24
+  orig: 190, 24
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_boxCheckmark
+  rotate: false
+  xy: 4057, 835
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_boxCross
+  rotate: false
+  xy: 4057, 797
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_boxTick
+  rotate: false
+  xy: 3573, 981
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_button00
+  rotate: false
+  xy: 3247, 1432
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_button01
+  rotate: false
+  xy: 795, 383
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_button02
+  rotate: false
+  xy: 547, 72
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_button03
+  rotate: false
+  xy: 547, 25
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_button04
+  rotate: false
+  xy: 739, 72
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_button05
+  rotate: false
+  xy: 739, 25
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_button06
+  rotate: false
+  xy: 2981, 499
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_button07
+  rotate: false
+  xy: 2851, 440
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_button08
+  rotate: false
+  xy: 1176, 484
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_button09
+  rotate: false
+  xy: 2902, 440
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_button10
+  rotate: false
+  xy: 2851, 393
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_button11
+  rotate: false
+  xy: 2902, 389
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_button12
+  rotate: false
+  xy: 3185, 565
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_button13
+  rotate: false
+  xy: 3247, 1334
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_checkmark
+  rotate: false
+  xy: 3247, 1214
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_circle
+  rotate: false
+  xy: 3573, 943
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_cross
+  rotate: false
+  xy: 4077, 1443
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_panel
+  rotate: false
+  xy: 3639, 1252
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_sliderDown
+  rotate: false
+  xy: 4013, 911
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_sliderLeft
+  rotate: false
+  xy: 1013, 1
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_sliderRight
+  rotate: false
+  xy: 1054, 1
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_sliderUp
+  rotate: false
+  xy: 4043, 911
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+kenney-uipack/green_tick
+  rotate: false
+  xy: 1227, 512
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_arrowDownGrey
+  rotate: false
+  xy: 521, 1
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_arrowDownWhite
+  rotate: false
+  xy: 3376, 560
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_arrowUpGrey
+  rotate: false
+  xy: 538, 1
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_arrowUpWhite
+  rotate: false
+  xy: 544, 13
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_box
+  rotate: false
+  xy: 4057, 759
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_boxCheckmark
+  rotate: false
+  xy: 4057, 721
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_boxCross
+  rotate: false
+  xy: 4057, 683
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_boxTick
+  rotate: false
+  xy: 3537, 1459
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_button00
+  rotate: false
+  xy: 3247, 1236
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_button01
+  rotate: false
+  xy: 3055, 1308
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_button02
+  rotate: false
+  xy: 3055, 1210
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_button03
+  rotate: false
+  xy: 3055, 1257
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_button04
+  rotate: false
+  xy: 3017, 982
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_button05
+  rotate: false
+  xy: 603, 430
+  size: 195, 49
+  orig: 195, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_button06
+  rotate: false
+  xy: 800, 430
+  size: 191, 49
+  orig: 191, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_button07
+  rotate: false
+  xy: 2953, 440
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_button08
+  rotate: false
+  xy: 2953, 389
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_button09
+  rotate: false
+  xy: 3251, 587
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_button10
+  rotate: false
+  xy: 3251, 787
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_button11
+  rotate: false
+  xy: 3338, 827
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_button12
+  rotate: false
+  xy: 3251, 736
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_button13
+  rotate: false
+  xy: 3134, 518
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_button14
+  rotate: false
+  xy: 3247, 1283
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_button15
+  rotate: false
+  xy: 3017, 1029
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_checkmarkGrey
+  rotate: false
+  xy: 1743, 641
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_checkmarkWhite
+  rotate: false
+  xy: 3584, 1230
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_circle
+  rotate: false
+  xy: 2451, 447
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_crossGrey
+  rotate: false
+  xy: 4077, 1423
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_crossWhite
+  rotate: false
+  xy: 4077, 1403
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_panel
+  rotate: false
+  xy: 3611, 1150
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_sliderDown
+  rotate: false
+  xy: 3155, 572
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_sliderEnd
+  rotate: false
+  xy: 2387, 647
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_sliderHorizontal
+  rotate: false
+  xy: 1, 3
+  size: 190, 4
+  orig: 190, 4
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_sliderLeft
+  rotate: false
+  xy: 2451, 414
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_sliderRight
+  rotate: false
+  xy: 3287, 484
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_sliderUp
+  rotate: false
+  xy: 4049, 1175
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_sliderVertical
+  rotate: false
+  xy: 3881, 1445
+  size: 4, 100
+  orig: 4, 100
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_tickGrey
+  rotate: false
+  xy: 3793, 916
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+kenney-uipack/grey_tickWhite
+  rotate: false
+  xy: 4077, 1344
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_boxCheckmark
+  rotate: false
+  xy: 4057, 645
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_boxCross
+  rotate: false
+  xy: 3251, 838
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_boxTick
+  rotate: false
+  xy: 2449, 376
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_button00
+  rotate: false
+  xy: 3611, 1558
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_button01
+  rotate: false
+  xy: 1255, 482
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_button02
+  rotate: false
+  xy: 987, 383
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_button03
+  rotate: false
+  xy: 3251, 685
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_button04
+  rotate: false
+  xy: 3251, 634
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_button05
+  rotate: false
+  xy: 3185, 518
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_button06
+  rotate: false
+  xy: 3032, 499
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_button07
+  rotate: false
+  xy: 3236, 540
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_button08
+  rotate: false
+  xy: 3004, 448
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_button09
+  rotate: false
+  xy: 3236, 493
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_button10
+  rotate: false
+  xy: 1447, 482
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_button11
+  rotate: false
+  xy: 993, 430
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_button12
+  rotate: false
+  xy: 937, 81
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_button13
+  rotate: false
+  xy: 937, 332
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_checkmark
+  rotate: false
+  xy: 2887, 1259
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_circle
+  rotate: false
+  xy: 2449, 338
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_cross
+  rotate: false
+  xy: 4077, 1383
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_panel
+  rotate: false
+  xy: 3843, 1343
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_sliderDown
+  rotate: false
+  xy: 4049, 1131
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_sliderLeft
+  rotate: false
+  xy: 3136, 485
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_sliderRight
+  rotate: false
+  xy: 3177, 485
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_sliderUp
+  rotate: false
+  xy: 4049, 1087
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+kenney-uipack/red_tick
+  rotate: false
+  xy: 2560, 409
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_boxCheckmark
+  rotate: false
+  xy: 3302, 622
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_boxCross
+  rotate: false
+  xy: 3302, 584
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_boxTick
+  rotate: false
+  xy: 2449, 300
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_button00
+  rotate: false
+  xy: 937, 281
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_button01
+  rotate: false
+  xy: 931, 34
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_button02
+  rotate: false
+  xy: 937, 230
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_button03
+  rotate: false
+  xy: 2397, 634
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_button04
+  rotate: false
+  xy: 937, 179
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_button05
+  rotate: false
+  xy: 2387, 587
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_button06
+  rotate: false
+  xy: 3004, 397
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_button07
+  rotate: false
+  xy: 3083, 514
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_button08
+  rotate: false
+  xy: 3302, 754
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_button09
+  rotate: false
+  xy: 3055, 448
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_button10
+  rotate: false
+  xy: 3302, 707
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_button11
+  rotate: false
+  xy: 3055, 397
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_button12
+  rotate: false
+  xy: 3302, 660
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_button13
+  rotate: false
+  xy: 937, 128
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_checkmark
+  rotate: false
+  xy: 521, 13
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_circle
+  rotate: false
+  xy: 3287, 517
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_cross
+  rotate: false
+  xy: 4077, 1363
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_panel
+  rotate: false
+  xy: 3815, 1037
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_sliderDown
+  rotate: false
+  xy: 3302, 801
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_sliderLeft
+  rotate: false
+  xy: 3140, 452
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_sliderRight
+  rotate: false
+  xy: 3140, 419
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_sliderUp
+  rotate: false
+  xy: 3106, 470
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+kenney-uipack/yellow_tick
+  rotate: false
+  xy: 3434, 825
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+libgdx
+  rotate: false
+  xy: 3089, 1534
+  size: 378, 63
+  orig: 378, 63
+  offset: 0, 0
+  index: -1
+ninepatch/debug
+  rotate: false
+  xy: 3353, 657
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ninepatch/glass
+  rotate: false
+  xy: 2887, 887
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-active
+  rotate: false
+  xy: 2989, 880
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-blue
+  rotate: false
+  xy: 3091, 880
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-corner-bl
+  rotate: false
+  xy: 3193, 876
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-corner-br
+  rotate: false
+  xy: 3295, 874
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-corner-tl
+  rotate: false
+  xy: 2387, 485
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-corner-tr
+  rotate: false
+  xy: 1639, 431
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-corners
+  rotate: false
+  xy: 1741, 399
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-dark
+  rotate: false
+  xy: 1843, 399
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-dim
+  rotate: false
+  xy: 1945, 399
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-dim-down
+  rotate: false
+  xy: 3943, 1485
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-dim-left
+  rotate: false
+  xy: 1129, 21
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-dim-point
+  rotate: false
+  xy: 3473, 1497
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-dim-right
+  rotate: false
+  xy: 2113, 376
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-dim-up
+  rotate: false
+  xy: 2215, 376
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-green
+  rotate: false
+  xy: 3509, 1121
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-red
+  rotate: false
+  xy: 3575, 1456
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-red-2
+  rotate: false
+  xy: 3677, 1456
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-red-3
+  rotate: false
+  xy: 3537, 1354
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-tab
+  rotate: false
+  xy: 3407, 1109
+  size: 100, 112
+  orig: 100, 112
+  offset: 0, 0
+  index: -1
+ninepatch/glass-thick
+  rotate: false
+  xy: 3537, 1252
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/glass-yellow
+  rotate: false
+  xy: 3639, 1354
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/metal
+  rotate: false
+  xy: 3779, 1445
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/metal-blue
+  rotate: false
+  xy: 3741, 1343
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/metal-blue-corner
+  rotate: false
+  xy: 3741, 1241
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/metal-green
+  rotate: false
+  xy: 3713, 1139
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/metal-green-corner
+  rotate: false
+  xy: 3611, 1048
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/metal-plate
+  rotate: false
+  xy: 2311, 1251
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+ninepatch/metal-red
+  rotate: false
+  xy: 3713, 1037
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/metal-red-corner
+  rotate: false
+  xy: 3509, 1019
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/metal-yellow
+  rotate: false
+  xy: 3611, 946
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/metal-yellow-corner
+  rotate: false
+  xy: 3713, 935
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ninepatch/panel
+  rotate: false
+  xy: 3991, 845
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ninepatch/plain
+  rotate: false
+  xy: 2397, 681
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ninepatch/plain-dim
+  rotate: false
+  xy: 2577, 857
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ninepatch/plain-gradient
+  rotate: false
+  xy: 2757, 1189
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ninepatch/plain-gradient-highlight-green
+  rotate: false
+  xy: 2925, 1379
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ninepatch/plain-gradient-highlight-red
+  rotate: false
+  xy: 2257, 529
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ninepatch/plain-gradient-highlight-yellow
+  rotate: false
+  xy: 2757, 1059
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ninepatch/shear
+  rotate: false
+  xy: 3611, 1807
+  size: 300, 240
+  orig: 300, 240
+  offset: 0, 0
+  index: -1
+objects/bit-coin/bitcoin-coin
+  rotate: false
+  xy: 385, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+objects/bit-coin/bitcoin-coin
+  rotate: false
+  xy: 385, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 9
+objects/bit-coin/bitcoin-coin
+  rotate: false
+  xy: 419, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+objects/bit-coin/bitcoin-coin
+  rotate: false
+  xy: 453, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+objects/bit-coin/bitcoin-coin
+  rotate: false
+  xy: 487, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+objects/bit-coin/bitcoin-coin
+  rotate: false
+  xy: 3575, 1565
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+objects/bit-coin/bitcoin-coin
+  rotate: false
+  xy: 3106, 436
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+objects/bit-coin/bitcoin-coin
+  rotate: false
+  xy: 3106, 402
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+objects/bit-coin/bitcoin-coin
+  rotate: false
+  xy: 3181, 451
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+objects/bit-coin/bitcoin-coin
+  rotate: false
+  xy: 3181, 417
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 8
+objects/bit-coin/bitcoin-coin
+  rotate: false
+  xy: 3140, 385
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 10
+objects/bit-coin/bitcoin-coin
+  rotate: false
+  xy: 3174, 383
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 11
+objects/bit-coin/bitcoin-coin
+  rotate: false
+  xy: 3106, 368
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 12
+objects/bit-coin/bitcoin-coin
+  rotate: false
+  xy: 3140, 351
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 13
+objects/bit-coin/bitcoin-coin
+  rotate: false
+  xy: 3174, 349
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 14
+objects/bit-coin/bitcoin-coin
+  rotate: false
+  xy: 3366, 793
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 15
+objects/bit-coin/bitcoin-coin
+  rotate: false
+  xy: 3353, 759
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 16
+objects/bit-coin/bitcoin-coin
+  rotate: false
+  xy: 3353, 725
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 17
+objects/bit-coin/bitcoin-coin
+  rotate: false
+  xy: 3353, 691
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 18
+objects/doge-coin/doge-coin
+  rotate: false
+  xy: 3387, 674
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+objects/doge-coin/doge-coin
+  rotate: false
+  xy: 3387, 674
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+objects/doge-coin/doge-coin
+  rotate: false
+  xy: 3387, 640
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+objects/doge-coin/doge-coin
+  rotate: false
+  xy: 3376, 606
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+objects/doge-coin/doge-coin
+  rotate: false
+  xy: 3376, 572
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+objects/doge-coin/doge-coin
+  rotate: false
+  xy: 3342, 555
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+objects/doge-coin/doge-coin
+  rotate: false
+  xy: 3325, 521
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+objects/doge-coin/doge-coin
+  rotate: false
+  xy: 3328, 487
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+objects/doge-coin/doge-coin
+  rotate: false
+  xy: 3359, 521
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 8
+objects/doge-coin/doge-coin
+  rotate: false
+  xy: 3362, 487
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 9
+objects/doge-coin/doge-coin
+  rotate: false
+  xy: 2492, 394
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 10
+objects/doge-coin/doge-coin
+  rotate: false
+  xy: 2526, 394
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 11
+objects/doge-coin/doge-coin
+  rotate: false
+  xy: 2487, 360
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 12
+objects/doge-coin/doge-coin
+  rotate: false
+  xy: 2487, 326
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 13
+objects/doge-coin/doge-coin
+  rotate: false
+  xy: 2521, 360
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 14
+objects/doge-coin/doge-coin
+  rotate: false
+  xy: 2521, 326
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 15
+objects/doge-coin/doge-coin
+  rotate: false
+  xy: 2487, 292
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 16
+objects/doge-coin/doge-coin
+  rotate: false
+  xy: 2521, 292
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 17
+objects/doge-coin/doge-coin
+  rotate: false
+  xy: 3421, 742
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 18
+objects/doge-coin/doge-coin
+  rotate: false
+  xy: 3421, 708
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 19
+objects/doge-coin/doge-coin
+  rotate: false
+  xy: 3421, 674
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 20
+objects/doge-coin/doge-coin
+  rotate: false
+  xy: 3421, 640
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 21
+objects/doge-coin/doge-coin
+  rotate: false
+  xy: 3410, 606
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 22
+objects/items-beer/items-beer-6pack/items-6pack
+  rotate: false
+  xy: 3410, 572
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+objects/items-beer/items-beer/items-beer
+  rotate: false
+  xy: 3393, 538
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+objects/items-beer/items-beer/items-beer
+  rotate: false
+  xy: 3427, 538
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+objects/items-beer/items-beer/items-beer
+  rotate: false
+  xy: 3396, 504
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+objects/items-beer/items-beer/items-beer
+  rotate: false
+  xy: 3430, 504
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+objects/items-beer/items-beer/items-beer
+  rotate: false
+  xy: 3396, 470
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+objects/items-beer/items-beer/items-beer
+  rotate: false
+  xy: 3430, 470
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+objects/items-chair/items-chair
+  rotate: false
+  xy: 2127, 529
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 0
+objects/items-horns-halo/items-halo
+  rotate: false
+  xy: 2723, 599
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+objects/items-horns-halo/items-halo
+  rotate: false
+  xy: 2789, 797
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+objects/items-horns-halo/items-halo
+  rotate: false
+  xy: 2789, 797
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+objects/items-horns-halo/items-halo
+  rotate: false
+  xy: 2789, 731
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+objects/items-horns-halo/items-horns
+  rotate: false
+  xy: 2789, 665
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+objects/items-horns-halo/items-horns
+  rotate: false
+  xy: 2789, 599
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+objects/items-horns-halo/items-horns
+  rotate: false
+  xy: 2789, 599
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+objects/items-horns-halo/items-horns
+  rotate: false
+  xy: 2783, 533
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+objects/items-scythe/items-scythe
+  rotate: false
+  xy: 2783, 467
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+objects/items-tv/items-tv-idle
+  rotate: false
+  xy: 3397, 910
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+objects/items-tv/items-tv-on/items-tv-on
+  rotate: false
+  xy: 3397, 844
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+objects/items-tv/items-tv-on/items-tv-on
+  rotate: false
+  xy: 3463, 887
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+objects/items-tv/items-tv-on/items-tv-on
+  rotate: false
+  xy: 3463, 821
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+objects/items-tv/items-tv-on/items-tv-on
+  rotate: false
+  xy: 3529, 877
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+objects/items-tv/items-tv-on/items-tv-on
+  rotate: false
+  xy: 3529, 811
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 4
+objects/items-tv/items-tv-on/items-tv-on
+  rotate: false
+  xy: 3595, 877
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 5
+objects/items-tv/items-tv-on/items-tv-on
+  rotate: false
+  xy: 3595, 811
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 6
+objects/items-tv/items-tv-on/items-tv-on
+  rotate: false
+  xy: 3661, 829
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 7
+objects/powerdown
+  rotate: false
+  xy: 1, 1023
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+objects/powerdown-old
+  rotate: false
+  xy: 1125, 531
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+objects/powerup
+  rotate: false
+  xy: 1027, 1023
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+objects/powerup-old
+  rotate: false
+  xy: 1255, 533
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+objects/tombstone
+  rotate: false
+  xy: 3815, 1139
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+particles/angels/angel
+  rotate: false
+  xy: 2589, 636
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: 0
+particles/angels/angel
+  rotate: false
+  xy: 2577, 812
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: 1
+particles/angels/angel
+  rotate: false
+  xy: 3945, 1242
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: 2
+particles/angels/angel
+  rotate: false
+  xy: 2707, 942
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: 3
+particles/circle
+  rotate: false
+  xy: 3218, 500
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+particles/devils/devil
+  rotate: false
+  xy: 4045, 1535
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 0
+particles/devils/devil
+  rotate: false
+  xy: 4045, 1483
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 1
+particles/devils/devil
+  rotate: false
+  xy: 4045, 1483
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 3
+particles/devils/devil
+  rotate: false
+  xy: 3887, 1495
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 2
+particles/dollars
+  rotate: false
+  xy: 3913, 1817
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+particles/font-points-0
+  rotate: false
+  xy: 1246, 519
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: 0
+particles/font-points-1
+  rotate: false
+  xy: 1246, 507
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: 0
+particles/font-points-2
+  rotate: false
+  xy: 3407, 1224
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: 0
+particles/font-points-3
+  rotate: false
+  xy: 2113, 489
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: 0
+particles/font-points-4
+  rotate: false
+  xy: 3803, 1593
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: 0
+particles/font-points-5
+  rotate: false
+  xy: 591, 409
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: 0
+particles/font-points-6
+  rotate: false
+  xy: 3473, 1485
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: 0
+particles/font-points-7
+  rotate: false
+  xy: 2613, 845
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: 0
+particles/font-points-8
+  rotate: false
+  xy: 2707, 930
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: 0
+particles/font-points-9
+  rotate: false
+  xy: 2743, 975
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: 0
+particles/line
+  rotate: false
+  xy: 1641, 197
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+particles/ring
+  rotate: false
+  xy: 1659, 215
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+particles/smoke
+  rotate: false
+  xy: 2849, 491
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+pets/cat
+  rotate: false
+  xy: 3277, 1080
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: 0
+pets/cat
+  rotate: false
+  xy: 2053, 1023
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: 1
+pets/cat
+  rotate: false
+  xy: 2087, 1023
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: 2
+pets/cat
+  rotate: false
+  xy: 3463, 953
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: 3
+pets/cat
+  rotate: false
+  xy: 1095, 8
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: 4
+pets/cat
+  rotate: false
+  xy: 3332, 801
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: 5
+pets/dog
+  rotate: false
+  xy: 3342, 623
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+pets/dog
+  rotate: false
+  xy: 3342, 589
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+pets/dog
+  rotate: false
+  xy: 3400, 810
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+pets/dog
+  rotate: false
+  xy: 3400, 776
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+pets/dog
+  rotate: false
+  xy: 3387, 742
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+pets/dog
+  rotate: false
+  xy: 3387, 708
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+pets/kitten
+  rotate: false
+  xy: 2449, 266
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+pets/kitten
+  rotate: false
+  xy: 2483, 258
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+pets/kitten
+  rotate: false
+  xy: 2517, 258
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+pets/kitten
+  rotate: false
+  xy: 3444, 606
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+pets/ross-dog
+  rotate: false
+  xy: 3537, 1223
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: 0
+pets/ross-dog
+  rotate: false
+  xy: 3291, 845
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: 1
+pets/ross-dog
+  rotate: false
+  xy: 2492, 428
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: 2
+pets/ross-dog
+  rotate: false
+  xy: 2539, 428
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: 3
+pets/ross-dog
+  rotate: false
+  xy: 3287, 555
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: 4
+pets/white-lab-dog
+  rotate: false
+  xy: 547, 383
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+pixel
+  rotate: false
+  xy: 3215, 482
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+player/reapo-idle-a
+  rotate: false
+  xy: 3991, 779
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+player/reapo-idle-a
+  rotate: false
+  xy: 3991, 713
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+player/reapo-idle-a
+  rotate: false
+  xy: 4011, 1219
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+player/reapo-idle-a
+  rotate: false
+  xy: 3983, 1153
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+player/reapo-idle-a
+  rotate: false
+  xy: 3983, 1087
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 4
+player/reapo-idle-a
+  rotate: false
+  xy: 4013, 1021
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 5
+player/reapo-idle-a
+  rotate: false
+  xy: 4013, 955
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 6
+player/reapo-idle-a
+  rotate: false
+  xy: 3991, 647
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 7
+player/reapo-idle-a
+  rotate: false
+  xy: 2587, 401
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 8
+player/reapo-idle-a
+  rotate: false
+  xy: 2653, 401
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 9
+player/reapo-idle-a
+  rotate: false
+  xy: 2719, 401
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 10
+player/reapo-idle-a
+  rotate: false
+  xy: 2785, 401
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 11
+player/reapo-idle-noweapon
+  rotate: false
+  xy: 2855, 821
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+player/reapo-idle-noweapon
+  rotate: false
+  xy: 2855, 755
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+player/reapo-idle-noweapon
+  rotate: false
+  xy: 2921, 821
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+player/reapo-idle-noweapon
+  rotate: false
+  xy: 2921, 755
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+player/reapo-idle-noweapon
+  rotate: false
+  xy: 2855, 689
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 4
+player/reapo-idle-noweapon
+  rotate: false
+  xy: 2855, 623
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 5
+player/reapo-idle-noweapon
+  rotate: false
+  xy: 2921, 689
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 6
+player/reapo-idle-noweapon
+  rotate: false
+  xy: 2921, 623
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 7
+player/reapo-idle-noweapon
+  rotate: false
+  xy: 2987, 814
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 8
+player/scythe
+  rotate: false
+  xy: 3053, 814
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+player/scythe
+  rotate: false
+  xy: 2987, 748
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+player/scythe
+  rotate: false
+  xy: 3119, 814
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+player/scythe
+  rotate: false
+  xy: 2987, 682
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+player/scythe
+  rotate: false
+  xy: 3053, 748
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 4
+player/scythe
+  rotate: false
+  xy: 3053, 682
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 5
+player/scythe
+  rotate: false
+  xy: 3119, 748
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 6
+player/scythe
+  rotate: false
+  xy: 3119, 682
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 7
+player/scythe
+  rotate: false
+  xy: 2987, 616
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 8
+player/scythe
+  rotate: false
+  xy: 3053, 616
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 9
+player/scythe
+  rotate: false
+  xy: 3119, 616
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 10
+player/scythe
+  rotate: false
+  xy: 3185, 810
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 11
+player/scythe
+  rotate: false
+  xy: 3185, 744
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 12
+player/scythe
+  rotate: false
+  xy: 3185, 678
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 13
+player/scythe
+  rotate: false
+  xy: 3185, 612
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 14
+player/scythe
+  rotate: false
+  xy: 2855, 557
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 15
+skull
+  rotate: false
+  xy: 2921, 557
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+faces/test/skull
+  rotate: false
+  xy: 2921, 557
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+story-background
+  rotate: false
+  xy: 603, 661
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: 0
+temp-effects/oryx-effects
+  rotate: false
+  xy: 2053, 1181
+  size: 256, 352
+  orig: 256, 352
+  offset: 0, 0
+  index: -1
+tiles/boulder
+  rotate: false
+  xy: 2493, 1337
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+tiles/boulder
+  rotate: false
+  xy: 2047, 369
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+tiles/boulder
+  rotate: false
+  xy: 3815, 971
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+tiles/boulder
+  rotate: false
+  xy: 2319, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+tiles/boulder
+  rotate: false
+  xy: 2317, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 4
+tiles/gothic-frame
+  rotate: false
+  xy: 3611, 1605
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+tiles/tile
+  rotate: false
+  xy: 2915, 491
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ui/background-heaven
+  rotate: false
+  xy: 3913, 1847
+  size: 180, 200
+  orig: 180, 200
+  offset: 0, 0
+  index: -1
+ui/background-hell
+  rotate: false
+  xy: 2311, 1333
+  size: 180, 200
+  orig: 180, 200
+  offset: 0, 0
+  index: -1
+ui/hourglass-shader
+  rotate: false
+  xy: 1, 421
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+ui/hourglass-skull
+  rotate: false
+  xy: 2757, 1319
+  size: 166, 188
+  orig: 166, 188
+  offset: 0, 0
+  index: -1
+ui/player/death-swing-back/death-swing-back
+  rotate: false
+  xy: 1645, 533
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: 0
+ui/player/death-swing-back/death-swing-back
+  rotate: false
+  xy: 2527, 681
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: 1
+ui/player/death-swing-back/death-swing-back
+  rotate: false
+  xy: 1129, 253
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: 2
+ui/player/death-swing-back/death-swing-back
+  rotate: false
+  xy: 1129, 123
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: 3
+ui/player/death-swing-back/death-swing-back
+  rotate: false
+  xy: 3311, 976
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: 4
+ui/player/death-swing-back/death-swing-back
+  rotate: false
+  xy: 2625, 727
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: 5
+ui/player/death-swing-idle/death-swing-idle
+  rotate: false
+  xy: 2625, 727
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: 2
+ui/player/death-swing-back/death-swing-back
+  rotate: false
+  xy: 3439, 1353
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: 6
+ui/player/death-swing-idle/death-swing-idle
+  rotate: false
+  xy: 3439, 1353
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: 3
+ui/player/death-swing-idle/death-swing-idle
+  rotate: false
+  xy: 3439, 1353
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: 1
+ui/player/death-swing-idle/death-swing-idle
+  rotate: false
+  xy: 3439, 1223
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: 0
+ui/player/death-swing-thru/death-swing-thru
+  rotate: false
+  xy: 3409, 979
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: 0
+ui/player/death-swing-thru/death-swing-thru
+  rotate: false
+  xy: 2489, 457
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: 1
+ui/player/death-swing-thru/death-swing-thru
+  rotate: false
+  xy: 2625, 597
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: 2
+ui/player/death-swing-thru/death-swing-thru
+  rotate: false
+  xy: 2587, 467
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: 3
+ui/player/death-swing-thru/death-swing-thru
+  rotate: false
+  xy: 2685, 467
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: 4
+world/walkpath-bottom/walkpath-bottom-base
+  rotate: false
+  xy: 2567, 1959
+  size: 520, 88
+  orig: 520, 88
+  offset: 0, 0
+  index: 0
+world/walkpath-bottom/walkpath-bottom-mountains
+  rotate: false
+  xy: 603, 571
+  size: 520, 88
+  orig: 520, 88
+  offset: 0, 0
+  index: 0
+world/walkpath-bottom/walkpath-bottom-topper
+  rotate: false
+  xy: 1245, 933
+  size: 520, 88
+  orig: 520, 88
+  offset: 0, 0
+  index: 0
+world/walkpath-bottom/walkpath-bottom-topper
+  rotate: false
+  xy: 2567, 1869
+  size: 520, 88
+  orig: 520, 88
+  offset: 0, 0
+  index: 1
+world/walkpath-bottom/walkpath-bottom-topper
+  rotate: false
+  xy: 3089, 1959
+  size: 520, 88
+  orig: 520, 88
+  offset: 0, 0
+  index: 2
+world/walkpath-bottom/walkpath-bottom-topper
+  rotate: false
+  xy: 603, 481
+  size: 520, 88
+  orig: 520, 88
+  offset: 0, 0
+  index: 3
+world/walkpath-bottom/walkpath-bottom-topper
+  rotate: false
+  xy: 1245, 843
+  size: 520, 88
+  orig: 520, 88
+  offset: 0, 0
+  index: 4
+world/walkpath-bottom/walkpath-bottom-topper
+  rotate: false
+  xy: 2567, 1779
+  size: 520, 88
+  orig: 520, 88
+  offset: 0, 0
+  index: 5
+world/walkpath-bottom/walkpath-bottom-topper
+  rotate: false
+  xy: 3089, 1869
+  size: 520, 88
+  orig: 520, 88
+  offset: 0, 0
+  index: 6
+world/walkpath-bottom/walkpath-bottom-topper
+  rotate: false
+  xy: 1245, 753
+  size: 520, 88
+  orig: 520, 88
+  offset: 0, 0
+  index: 7
+world/walkpath-corner-a-action/walkpath-corner-a-action
+  rotate: false
+  xy: 1385, 533
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 0
+world/walkpath-corner-a-action/walkpath-corner-a-action
+  rotate: false
+  xy: 1515, 533
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 1
+world/walkpath-corner-a-action/walkpath-corner-a-action
+  rotate: false
+  xy: 3813, 1677
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 2
+world/walkpath-corner-a-action/walkpath-corner-a-action
+  rotate: false
+  xy: 3943, 1717
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 3
+world/walkpath-corner-a-action/walkpath-corner-a-action
+  rotate: false
+  xy: 2757, 929
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 4
+world/walkpath-corner-a-action/walkpath-corner-a-action
+  rotate: false
+  xy: 3813, 1547
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 5
+world/walkpath-corner-a-action/walkpath-corner-a-action
+  rotate: false
+  xy: 3943, 1587
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 6
+world/walkpath-corner-a-action/walkpath-corner-a-action
+  rotate: false
+  xy: 547, 253
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 7
+world/walkpath-corner-a-action/walkpath-corner-a-action
+  rotate: false
+  xy: 547, 123
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 8
+world/walkpath-corner-a-action/walkpath-corner-a-action
+  rotate: false
+  xy: 677, 253
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 9
+world/walkpath-corner-a-action/walkpath-corner-a-action
+  rotate: false
+  xy: 677, 123
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 10
+world/walkpath-corner-a-action/walkpath-corner-a-action
+  rotate: false
+  xy: 807, 253
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 11
+world/walkpath-corner-a-action/walkpath-corner-a-action
+  rotate: false
+  xy: 807, 123
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 12
+world/walkpath-corner-a-idle/walkpath-corner-a-idle
+  rotate: false
+  xy: 807, 123
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 7
+world/walkpath-corner-a-idle/walkpath-corner-a-idle
+  rotate: false
+  xy: 807, 123
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 0
+world/walkpath-corner-a-idle/walkpath-corner-a-idle
+  rotate: false
+  xy: 2925, 1249
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 1
+world/walkpath-corner-a-idle/walkpath-corner-a-idle
+  rotate: false
+  xy: 2887, 1119
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 2
+world/walkpath-corner-a-idle/walkpath-corner-a-idle
+  rotate: false
+  xy: 2887, 989
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 3
+world/walkpath-corner-a-idle/walkpath-corner-a-idle
+  rotate: false
+  xy: 3017, 1080
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 4
+world/walkpath-corner-a-idle/walkpath-corner-a-idle
+  rotate: false
+  xy: 3147, 1080
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 5
+world/walkpath-corner-a-idle/walkpath-corner-a-idle
+  rotate: false
+  xy: 3277, 1106
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 6
+world/walkpath-left/walkpath-left-base
+  rotate: false
+  xy: 1767, 501
+  size: 88, 520
+  orig: 88, 520
+  offset: 0, 0
+  index: 0
+world/walkpath-left/walkpath-left-base
+  rotate: false
+  xy: 1857, 501
+  size: 88, 520
+  orig: 88, 520
+  offset: 0, 0
+  index: 1
+world/walkpath-left/walkpath-left-base
+  rotate: false
+  xy: 1947, 501
+  size: 88, 520
+  orig: 88, 520
+  offset: 0, 0
+  index: 2
+world/walkpath-left/walkpath-left-base
+  rotate: false
+  xy: 2037, 501
+  size: 88, 520
+  orig: 88, 520
+  offset: 0, 0
+  index: 3
+world/walkpath-left/walkpath-left-clouds
+  rotate: false
+  xy: 2127, 659
+  size: 88, 520
+  orig: 88, 520
+  offset: 0, 0
+  index: 0
+world/walkpath-right/walkpath-right-clouds
+  rotate: false
+  xy: 2127, 659
+  size: 88, 520
+  orig: 88, 520
+  offset: 0, 0
+  index: 0
+world/walkpath-left/walkpath-left-topper
+  rotate: false
+  xy: 2217, 659
+  size: 88, 520
+  orig: 88, 520
+  offset: 0, 0
+  index: 0
+world/walkpath-right/walkpath-right-base
+  rotate: false
+  xy: 2307, 659
+  size: 88, 520
+  orig: 88, 520
+  offset: 0, 0
+  index: 0
+world/walkpath-right/walkpath-right-base
+  rotate: false
+  xy: 2397, 811
+  size: 88, 520
+  orig: 88, 520
+  offset: 0, 0
+  index: 1
+world/walkpath-right/walkpath-right-base
+  rotate: false
+  xy: 2487, 811
+  size: 88, 520
+  orig: 88, 520
+  offset: 0, 0
+  index: 2
+world/walkpath-right/walkpath-right-base
+  rotate: false
+  xy: 2577, 987
+  size: 88, 520
+  orig: 88, 520
+  offset: 0, 0
+  index: 3
+world/walkpath-right/walkpath-right-topper
+  rotate: false
+  xy: 2667, 987
+  size: 88, 520
+  orig: 88, 520
+  offset: 0, 0
+  index: 0
+world/walkpath-top/walkpath-top-base
+  rotate: false
+  xy: 2567, 1689
+  size: 520, 88
+  orig: 520, 88
+  offset: 0, 0
+  index: 0
+world/walkpath-top/walkpath-top-mountains
+  rotate: false
+  xy: 3089, 1779
+  size: 520, 88
+  orig: 520, 88
+  offset: 0, 0
+  index: 0
+world/walkpath-top/walkpath-top-topper
+  rotate: false
+  xy: 1245, 663
+  size: 520, 88
+  orig: 520, 88
+  offset: 0, 0
+  index: 0
+world/walkpath-top/walkpath-top-topper
+  rotate: false
+  xy: 2567, 1599
+  size: 520, 88
+  orig: 520, 88
+  offset: 0, 0
+  index: 1
+world/walkpath-top/walkpath-top-topper
+  rotate: false
+  xy: 2567, 1599
+  size: 520, 88
+  orig: 520, 88
+  offset: 0, 0
+  index: 5
+world/walkpath-top/walkpath-top-topper
+  rotate: false
+  xy: 3089, 1689
+  size: 520, 88
+  orig: 520, 88
+  offset: 0, 0
+  index: 2
+world/walkpath-top/walkpath-top-topper
+  rotate: false
+  xy: 3089, 1689
+  size: 520, 88
+  orig: 520, 88
+  offset: 0, 0
+  index: 4
+world/walkpath-top/walkpath-top-topper
+  rotate: false
+  xy: 3089, 1599
+  size: 520, 88
+  orig: 520, 88
+  offset: 0, 0
+  index: 3
+world/walkpath-top/walkpath-top-topper
+  rotate: false
+  xy: 2567, 1509
+  size: 520, 88
+  orig: 520, 88
+  offset: 0, 0
+  index: 6

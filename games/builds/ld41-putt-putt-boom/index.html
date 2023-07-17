@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+       <head>
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-103730179-1"></script>
+            <script>
+              window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+
+                  gtag('config', 'UA-103730179-1');
+            </script>
+              <title>Putt-Putt Boom! - LudumDare41</title>
+              <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+              <link href="styles.css" rel="stylesheet" type="text/css">
+              <link href="../css/main.css" rel="stylesheet" type="text/css">
+              <script src="soundmanager2-setup.js"></script>
+  			  <script src="soundmanager2-jsmin.js"></script>
+       </head>
+
+       <body>
+              <div align="center" id="embed-html"></div>
+              <script type="text/javascript" src="html/html.nocache.js"></script>
+              <div align="center"><a href="ld41-putt-putt-boom-desktop.jar">Download Desktop Version (jar)</a></div>
+              <div align="center"><a href="https://ldjam.com/events/ludum-dare/41/putt-putt-boom-1">Ludum Dare 41 Entry Page</a></div>
+       </body>
+
+       <script>
+              function handleMouseDown(evt) {
+                evt.preventDefault();
+                evt.stopPropagation();
+                evt.target.style.cursor = 'default';
+                window.focus();
+              }
+
+              function handleMouseUp(evt) {
+                evt.preventDefault();
+                evt.stopPropagation();
+                evt.target.style.cursor = '';
+              }
+              document.getElementById('embed-html').addEventListener('mousedown', handleMouseDown, false);
+              document.getElementById('embed-html').addEventListener('mouseup', handleMouseUp, false);
+       </script>
+</html>

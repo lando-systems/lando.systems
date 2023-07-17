@@ -1,0 +1,55 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "level1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 622.3333333333333,
+                "y": 368
+            }
+        },
+        "level2.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 734.5,
+                "y": 334
+            }
+        },
+        "level3.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 437.9999999999999,
+                "y": 307.9999999999999
+            }
+        },
+        "test-80x80.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 698.5,
+                "y": 376
+            }
+        }
+    },
+    "last.objectTemplatePath": "C:/Users/brian/Projects/_LudumDare/LudumDare53/assets/maps",
+    "openFiles": [
+    ],
+    "project": "ludum-dare-53.tiled-project",
+    "recentFiles": [
+        "level3.tmx",
+        "level2.tmx",
+        "level1.tmx",
+        "test-80x80.tmx"
+    ]
+}

@@ -90,6 +90,9 @@
   text-transform: capitalize;
   padding-left: 1rem;
 }
+.card-body .game-ratings .rating-category .category-icon {
+  visibility: hidden;
+}
 
 .card-footer {
   width: 100%;

@@ -43,10 +43,7 @@ export const GameCard = (elem, attribs) => {
 
   elem.innerHTML = `
     <div class="card">
-      <img class="card-image"
-           src="../images/logo-512-min.png"
-           alt="Game card"
-      >
+      <img class="card-image" src="" alt="">
 
       <div class="card-content">
         <section class="card-header">
@@ -115,7 +112,14 @@ export const GameCard = (elem, attribs) => {
       let classes = event.target.classList;
       classes.toggle('animate__animated');
       classes.toggle('animate__pulse');
+
+      let rating_icons = event.target.querySelectorAll('.category-icon');
+      rating_icons.forEach(icon => {
+        let is_visible = (icon.style.visibility === 'visible');
+        icon.style.visibility = is_visible ? 'hidden' : 'visible';
+      });
     };
+
     elem.addEventListener('mouseenter', toggle_anim);
     elem.addEventListener('mouseleave', toggle_anim);
 

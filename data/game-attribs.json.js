@@ -6,7 +6,7 @@ export default [
     "date": "2023-05-01",
     "code": "https://github.com/bploeckelman/LudumDare53",
     "entry": "https://ldjam.com/events/ludum-dare/53/game-genie-crunch-time",
-    "play": "/games/game-genie",
+    "play": "/games/builds/ld53-gamegenie",
     "post": "/games/posts/game-genie",
     "ratings": {
       "overall": 376,
@@ -45,7 +45,7 @@ export default [
     "date": "2022-10-03",
     "code": "https://github.com/bploeckelman/LudumDare51",
     "entry": "https://ldjam.com/events/ludum-dare/51/chromo-trigger",
-    "play": "/games/chromo-trigger",
+    "play": "/games/builds/ld51-chromo-trigger",
     "post": "/games/posts/chromo-trigger",
     "ratings": {
       "overall": 114,
@@ -507,7 +507,7 @@ export default [
     "date": "2013-08-26",
     "code": "https://github.com/bploeckelman/LudumDare27",
     "entry": "https://ldjam.com/users/landosystems/games",
-    "play": "/games/dragon-rescue",
+    "play": "/games/builds/ld27-dragonrescue",
     "post": "/games/posts/dragon-rescue",
     "ratings": {
       "overall": 436,

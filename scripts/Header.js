@@ -1,7 +1,7 @@
 export const Header = (elem) => {
 
   // TODO - remove this, it's for making webstorm http server urls and hrefs match
-  const base_path = '/lando.systems-vanilla';
+  const base_path = '/lando.systems-site';
 
   elem.innerHTML = `
     <h1 class="title">

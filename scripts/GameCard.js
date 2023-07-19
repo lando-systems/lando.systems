@@ -35,7 +35,7 @@ const Rating = (elem, category, value) => {
   let category_value = elem.querySelector('.rating-value');
 
   category_name.innerText = category;
-  category_value.innerText = value;
+  category_value.innerText = (value !== 0) ? value : '-';
 
 };
 

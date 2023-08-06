@@ -17,8 +17,8 @@ export const Header = (elem) => {
     </nav>
     
     <div class="controls">
-      <span class="icon">&#x1f31e;</span>
-      <span class="icon">&#x1f319;</span>
+      <span class="icon">🌞</span>
+      <span class="icon">🌙</span>
     </div>
   `;
 

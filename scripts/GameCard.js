@@ -13,14 +13,14 @@ const Rating = (elem, category, value) => {
   // https://emojipedia.org/
   // https://www.unicode.org/emoji/charts/emoji-list.html
   const emoji = {
-    'overall': '&#x1f3c6;',   // trophy
-    'fun': '&#x1f929;',       // star struck - alt: &#x1f643;(upside down smile), &#x1f973; (partying face)
-    'innovation': '&#x2728;', // sparkles
-    'theme': '&#x1f4ee;',     // postbox - alt: &#x1f5dd; (old key), &#x1f5f3; (ballot box w/ballot)
-    'graphics': '&#x1f3a8;',  // palette - alt: &#x1f58c; (paintbrush), &#x1f58d; (crayon)
-    'audio': '&#x1f3a7;',     // headphones - alt: &#x1f3b6; (notes), &#x1f3bc; (musical score), &#x1f50a (speaker loud)
-    'humor': '&#x1f923;',     // rofl face
-    'mood': '&#x1f525;'       // heart on fire - alt: &#x1f497; (growing heart)
+    'overall':    '🏆',
+    'fun':        '🤩',
+    'innovation': '✨',
+    'theme':      '📮',
+    'graphics':   '🎨',
+    'audio':      '🎧',
+    'humor':      '🤣',
+    'mood':       '🔥'
   };
 
   elem.innerHTML = `
